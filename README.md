@@ -1,6 +1,6 @@
 # Project Kickstart
 
-[![Version](https://img.shields.io/badge/version-0.10.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-0.11.0-blue.svg)]()
 
 ## Descripción General
 
