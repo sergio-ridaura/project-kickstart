@@ -33,7 +33,7 @@ Proveer una plantilla preconfigurada que incluya las herramientas y configuracio
 
 ## Conclusión
 
-Kickstart es una solución ideal para desarrolladores y equipos que buscan iniciar proyectos rápidamente con configuraciones estándar y optimizadas. Reduce el tiempo de configuración inicial y mejora la consistencia en los entornos de desarrollo.
+Project Kickstart es una solución ideal para desarrolladores y equipos que buscan iniciar proyectos rápidamente con configuraciones estándar y optimizadas. Reduce el tiempo de configuración inicial y mejora la consistencia en los entornos de desarrollo.
 
 ## ¿Te gustaría aportar?
 

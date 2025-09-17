@@ -12,7 +12,7 @@ Crear y configurar el repositorio base en GitHub para el proyecto.
 
 ## Criterios de aceptación
 
-- [x] **Creación del Repositorio:** Crear repositorio `project-kickstart` con descripción "Kickstart is a lightweight and optimized template for starting projects of any type, with standard configurations for GitHub and Visual Studio Code." e inicialización con documento README.
+- [x] **Creación del Repositorio:** Crear repositorio `project-kickstart` con descripción "A lightweight and optimized template for starting projects of any type, with standard configurations for GitHub and Visual Studio Code." e inicialización con documento README.
 - [x] **Configuración como Plantilla:** Habilitar opción "Template repository" para permitir que otros usuarios creen repositorios basados en este.
 - [x] **Configuración del About del Repositorio:** Desactiva las secciones de Release y Packages en el apartado About. Mantén activada la opción Deployments en About.
 - [x] **Configuración General del Repositorio:** Desactiva las opciones Wiki y Projects en la configuración del repositorio. Mantén activada la opción "Preserve this repository".
