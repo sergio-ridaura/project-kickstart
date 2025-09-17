@@ -35,14 +35,14 @@ Proveer una plantilla lista para usar con configuraciones estándar que reduzca 
 
 **Tareas:**
 
-- 11/15 tareas completadas (73%)
-- 4 tareas pendientes (27%)
+- 12/15 tareas completadas (80%)
+- 3 tareas pendientes (20%)
 
 **Tiempo:**
 
 - 47 horas totales estimadas (7 días y 5 horas, días de 6 horas)
-- 36 horas completadas (6 días, días de 6 horas -> 77%)
-- 11 horas por finalizar (1 día y 5 horas, días de 6 horas -> 23%)
+- 38 horas completadas (6 días y 2 horas, días de 6 horas -> 81%)
+- 9 horas por finalizar (1 día y 3 horas, días de 6 horas -> 19%)
 
 ### Configuración Inicial
 
@@ -60,7 +60,7 @@ Proveer una plantilla lista para usar con configuraciones estándar que reduzca 
 - [x] [Documento de Seguridad](tasks/security-document.md) - 1h
 - [x] [Documento de Contribución](tasks/contributing-document.md) - 2h
 - [x] [Código de Conducta](tasks/code-of-conduct-document.md) - 1h
-- [ ] [Documento de Validación](tasks/validation-document.md) - 2h
+- [x] [Documento de Validación](tasks/validation-document.md) - 2h
 
 ### Documentación de Usuario
 
