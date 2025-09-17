@@ -35,38 +35,38 @@ Proveer una plantilla lista para usar con configuraciones estándar que reduzca 
 
 **Tareas:**
 
-- 5/15 tareas completadas (33%)
-- 10 tareas pendientes (67%)
+- 6/15 tareas completadas (40%)
+- 9 tareas pendientes (60%)
 
 **Tiempo:**
 
 - 47 horas totales estimadas (7 días y 5 horas, días de 6 horas)
-- X horas completadas (X días y X horas, días de 6 horas -> X%)
-- X horas por finalizar (X días y X horas, días de 6 horas -> X%)
+- 27 horas completadas (4 días y 3 horas, días de 6 horas -> 57%)
+- 20 horas por finalizar (3 días y 2 horas, días de 6 horas -> 43%)
 
 ### Configuración Inicial
 
-- [x] [Repositorio en GitHub](tasks/github-repository.md)
-- [x] [Configuración de GitHub](tasks/github-configuration.md)
-- [x] [Configuración de Visual Studio Code](tasks/vscode-configuration.md)
-- [x] [Documento de Propuesta](tasks/proposal-document.md)
-- [x] [Documento Plan de Acción](tasks/action-plan-document.md)
-- [ ] [Documentos de Tareas del Plan de Acción](tasks/action-plan-tasks.md)
+- [x] [Repositorio en GitHub](tasks/github-repository.md) - 1h
+- [x] [Configuración de GitHub](tasks/github-configuration.md) - 2h
+- [x] [Configuración de Visual Studio Code](tasks/vscode-configuration.md) - 2h
+- [x] [Documento de Propuesta](tasks/proposal-document.md) - 6h
+- [x] [Documento Plan de Acción](tasks/action-plan-document.md) - 2h
+- [x] [Documentos de Tareas del Plan de Acción](tasks/action-plan-tasks.md) - 16h
 
 ### Documentación del Proyecto
 
-- [ ] [Documento de Créditos](tasks/credits-document.md)
-- [ ] [Documento README](tasks/readme-document.md)
-- [ ] [Documento de Seguridad](tasks/security-document.md)
-- [ ] [Documento de Contribución](tasks/contributing-document.md)
-- [ ] [Código de Conducta](tasks/code-of-conduct-document.md)
-- [ ] [Documento de Validación](tasks/validation-document.md)
+- [ ] [Documento de Créditos](tasks/credits-document.md) - 1h
+- [ ] [Documento README](tasks/readme-document.md) - 2h
+- [ ] [Documento de Seguridad](tasks/security-document.md) - 1h
+- [ ] [Documento de Contribución](tasks/contributing-document.md) - 2h
+- [ ] [Código de Conducta](tasks/code-of-conduct-document.md) - 1h
+- [ ] [Documento de Validación](tasks/validation-document.md) - 2h
 
 ### Documentación de Usuario
 
-- [ ] [Guía de Usuario](tasks/user-guide-document.md)
-- [ ] [Documento de Estructura](tasks/structure-document.md)
-- [ ] [Guía de Desarrollo](tasks/development-guide-document.md)
+- [ ] [Guía de Usuario](tasks/user-guide-document.md) - 3h
+- [ ] [Documento de Estructura](tasks/structure-document.md) - 2h
+- [ ] [Guía de Desarrollo](tasks/development-guide-document.md) - 4h
 
 ### Mejoras
 
