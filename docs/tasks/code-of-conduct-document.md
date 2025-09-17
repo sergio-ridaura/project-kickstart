@@ -4,19 +4,19 @@ Crear código de conducta que establezca normas de comportamiento y procedimient
 
 | Campo           | Valor          |
 | --------------- | -------------- |
-| **Estado**      | Pendiente      |
+| **Estado**      | Completada     |
 | **Responsable** | Sergio Ridaura |
 | **Prioridad**   | Media          |
 | **Previsión**   | 1 hora         |
-| **Tiempo**      | 0 horas        |
+| **Tiempo**      | 1 hora         |
 
 ## Criterios de aceptación
 
-- [ ] **Ubicación**: El archivo `CODE_OF_CONDUCT.md` debe estar en la raíz del repositorio.
-- [ ] **Normas claras y detalladas**: Definir de manera explícita los comportamientos esperados y no aceptables dentro de la comunidad del proyecto.
-- [ ] **Procedimiento de reporte y aplicación**: Establecer pasos claros para reportar, gestionar y resolver violaciones al código de conducta.
-- [ ] **Referencia a estándares reconocidos**: Basar el documento en modelos ampliamente aceptados, como el Contributor Covenant, e incluir enlaces a recursos oficiales.
-- [ ] **Lenguaje inclusivo y profesional**: Garantizar que el texto promueva un ambiente respetuoso, seguro e inclusivo para todos los participantes.
+- [x] **Ubicación**: El archivo `CODE_OF_CONDUCT.md` debe estar en la raíz del repositorio.
+- [x] **Normas claras y detalladas**: Definir de manera explícita los comportamientos esperados y no aceptables dentro de la comunidad del proyecto.
+- [x] **Procedimiento de reporte y aplicación**: Establecer pasos claros para reportar, gestionar y resolver violaciones al código de conducta.
+- [x] **Referencia a estándares reconocidos**: Basar el documento en modelos ampliamente aceptados, como el Contributor Covenant, e incluir enlaces a recursos oficiales.
+- [x] **Lenguaje inclusivo y profesional**: Garantizar que el texto promueva un ambiente respetuoso, seguro e inclusivo para todos los participantes.
 
 ## Dependencias
 
