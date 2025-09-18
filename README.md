@@ -1,6 +1,6 @@
 # Project Kickstart
 
-[![Version](https://img.shields.io/badge/version-0.11.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-0.12.0-blue.svg)]()
 
 ## Descripción General
 
@@ -59,8 +59,6 @@ Project Kickstart es una plantilla ligera y optimizada para iniciar proyectos de
 
 Comienza leyendo **[Guía de Usuario](docs/USER_GUIDE.md)** de la plantilla y sigue las indicaciones.
 
-- [Guía de Desarrollo](docs/DEVELOPMENT_GUIDE.md) - Metodología completa de trabajo
-- [Estructura del Proyecto](docs/STRUCTURE.md) - Arquitectura y organización
 - [Código de Conducta](docs/CODE_OF_CONDUCT.md) - Normas de la comunidad
 - [Guía de Contribución](docs/CONTRIBUTING.md) - Cómo participar en el proyecto
 - [Créditos](docs/CREDITS.md) - Agradecimientos y reconocimientos
@@ -77,6 +75,8 @@ Para una visión general del proyecto, consulta los siguientes documentos:
 - [Plan de Acción](docs/ACTION_PLAN.md) - Implementación del proyecto
 - [Tareas del Plan de Acción](docs/tasks) - Desglose detallado de tareas
 - [Validación del Proyecto](docs/VALIDATION.md) - Criterios de validación y resultados
+- [Guía de Desarrollo](docs/DEVELOPMENT_GUIDE.md) - Metodología completa de trabajo
+- [Estructura del Proyecto](docs/STRUCTURE.md) - Arquitectura y organización
 
 🤝 Este es un proyecto de código abierto y las contribuciones son bienvenidas. Para más información, consulta la [Guía de Contribución](docs/CONTRIBUTING.md).
 
