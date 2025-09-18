@@ -1,32 +1,32 @@
-# Tarea: Guía del Usuario
+# Task: User Guide
 
-Crear una guía del usuario que explique cómo utilizar el sistema de plantillas.
+Create a user guide that explains how to use the template system.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 3 horas        |
-| **Tiempo**      | 3 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 3 hours        |
+| **Time**        | 3 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación**: El archivo `USER_GUIDE.md` debe estar en la raíz del repositorio o en la carpeta de documentación principal.
-- [x] **Guía completa y accesible**: Incluir explicaciones claras y detalladas para usuarios finales, cubriendo desde la introducción hasta funcionalidades avanzadas.
-- [x] **Estructura lógica y navegable**: Organizar la guía en secciones bien definidas (introducción, instalación/configuración, uso básico, uso avanzado, solución de problemas, preguntas frecuentes).
-- [x] **Ejemplos prácticos y visuales**: Incorporar ejemplos de uso real, capturas de pantalla, diagramas o videos ilustrativos para facilitar la comprensión.
-- [x] **Recomendaciones y mejores prácticas**: Ofrecer consejos útiles para maximizar la eficiencia y evitar errores comunes al utilizar el sistema.
-- [x] **Referencias y enlaces útiles**: Incluir enlaces a documentación adicional, recursos externos o soporte.
+- [x] **Location**: The `USER_GUIDE.md` file must be in the root of the repository or in the main documentation folder.
+- [x] **Complete and accessible guide**: Include clear and detailed explanations for end users, covering from introduction to advanced functionalities.
+- [x] **Logical and navigable structure**: Organize the guide in well-defined sections (introduction, installation/configuration, basic usage, advanced usage, troubleshooting, frequently asked questions).
+- [x] **Practical and visual examples**: Incorporate real usage examples, screenshots, diagrams or illustrative videos to facilitate understanding.
+- [x] **Recommendations and best practices**: Offer useful tips to maximize efficiency and avoid common errors when using the system.
+- [x] **References and useful links**: Include links to additional documentation, external resources or support.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: README redactado.
+**Requires**: README drafted.
 
-## Recursos
+## Resources
 
-- [Documentación de Plantillas](https://example.com/templates-docs) - Referencia oficial
+- [Template Documentation](https://example.com/templates-docs) - Official reference
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

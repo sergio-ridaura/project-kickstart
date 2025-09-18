@@ -1,66 +1,66 @@
-# Estructura del Proyecto
+# Project Structure
 
-Este documento describe la organización de directorios y archivos del proyecto, explicando su propósito y función.
+This document describes the directory and file organization of the project, explaining its purpose and function.
 
-## Configuración GitHub
+## GitHub Configuration
 
-- **`/.github/`** - Contiene toda la configuración específica para GitHub.
-  - **`ISSUE_TEMPLATE/`**: Almacena las plantillas para la creación de issues.
-    - `bug_report.md`: Formato para reportar errores.
-    - `feature_request.md`: Formato para proponer nuevas funcionalidades.
-    - `question.md`: Formato para realizar preguntas.
-  - **`PULL_REQUEST_TEMPLATE/`**: Contiene la plantilla para las pull requests.
-    - `pull_request_template.md`: Checklist y formato estándar para las contribuciones de código.
+- **`/.github/`** - Contains all GitHub-specific configuration.
+  - **`ISSUE_TEMPLATE/`**: Stores templates for creating issues.
+    - `bug_report.md`: Format for reporting bugs.
+    - `feature_request.md`: Format for proposing new features.
+    - `question.md`: Format for asking questions.
+  - **`PULL_REQUEST_TEMPLATE/`**: Contains the template for pull requests.
+    - `pull_request_template.md`: Checklist and standard format for code contributions.
 
-## Configuración Visual Studio
+## Visual Studio Configuration
 
-- **`/.vscode/`** - Contiene la configuración recomendada para el entorno de desarrollo en Visual Studio Code.
-  - `extensions.json`: Lista de extensiones de VSCode recomendadas para este proyecto.
-  - `settings.json`: Ajustes de configuración del espacio de trabajo.
-  - `cspell.json`: Configuración del corrector ortográfico CSpell, incluyendo diccionarios y reglas personalizadas.
+- **`/.vscode/`** - Contains the recommended configuration for the development environment in Visual Studio Code.
+  - `extensions.json`: List of recommended VSCode extensions for this project.
+  - `settings.json`: Workspace configuration settings.
+  - `cspell.json`: CSpell spell checker configuration, including dictionaries and custom rules.
 
-## Documentación
+## Documentation
 
-- **`/docs/`** - Contiene toda la documentación del proyecto.
-  - `ACTION_PLAN.md`: Plan de implementación detallado del proyecto.
-  - `CODE_OF_CONDUCT.md`: Código de conducta para la comunidad.
-  - `CONTRIBUTING.md`: Guía sobre cómo contribuir al proyecto.
-  - `CREDITS.md`: Reconocimientos a colaboradores y herramientas.
-  - `DEVELOPMENT_GUIDE.md`: Metodología completa de desarrollo.
-  - `PROPOSAL.md`: Propuesta que define el problema, la solución y el alcance.
-  - `SECURITY.md`: Políticas de seguridad y cómo reportar vulnerabilidades.
-  - `STRUCTURE.md`: Este mismo archivo, que describe la estructura del proyecto.
-  - `USER_GUIDE.md`: Guía para usar la herramienta.
-  - `VALIDATION.md`: Documento para validar la propuesta y el proyecto.
-  - **`/tasks/`**: Documentos que detallan tareas específicas del plan de acción.
-    - `action-plan-document.md`: Tarea para crear el documento de plan de acción.
-    - `action-plan-tasks.md`: Tarea para crear las tareas del plan de acción.
-    - `code-of-conduct-document.md`: Tarea para crear el documento de código de conducta.
-    - `contributing-document.md`: Tarea para crear el documento de contribución.
-    - `credits-document.md`: Tarea para crear el documento de créditos.
-    - `development-guide-document.md`: Tarea para crear la guía de desarrollo.
-    - `github-configuration.md`: Tarea para configurar el repositorio de GitHub.
-    - `github-repository.md`: Tarea para crear el repositorio de GitHub.
-    - `proposal-document.md`: Tarea para crear el documento de propuesta.
-    - `readme-document.md`: Tarea para crear el documento README.
-    - `security-document.md`: Tarea para crear el documento de seguridad.
-    - `structure-document.md`: Tarea para crear el documento de estructura.
-    - `user-guide-document.md`: Tarea para crear la guía de usuario.
-    - `validation-document.md`: Tarea para crear el documento de validación.
-    - `vscode-configuration.md`: Tarea para configurar VSCode.
+- **`/docs/`** - Contains all project documentation.
+  - `ACTION_PLAN.md`: Detailed project implementation plan.
+  - `CODE_OF_CONDUCT.md`: Code of conduct for the community.
+  - `CONTRIBUTING.md`: Guide on how to contribute to the project.
+  - `CREDITS.md`: Acknowledgements to collaborators and tools.
+  - `DEVELOPMENT_GUIDE.md`: Complete development methodology.
+  - `PROPOSAL.md`: Proposal that defines the problem, solution and scope.
+  - `SECURITY.md`: Security policies and how to report vulnerabilities.
+  - `STRUCTURE.md`: This same file, which describes the project structure.
+  - `USER_GUIDE.md`: Guide for using the tool.
+  - `VALIDATION.md`: Document to validate the proposal and the project.
+  - **`/tasks/`**: Documents that detail specific tasks of the action plan.
+    - `action-plan-document.md`: Task to create the action plan document.
+    - `action-plan-tasks.md`: Task to create the action plan tasks.
+    - `code-of-conduct-document.md`: Task to create the code of conduct document.
+    - `contributing-document.md`: Task to create the contribution document.
+    - `credits-document.md`: Task to create the credits document.
+    - `development-guide-document.md`: Task to create the development guide.
+    - `github-configuration.md`: Task to configure the GitHub repository.
+    - `github-repository.md`: Task to create the GitHub repository.
+    - `proposal-document.md`: Task to create the proposal document.
+    - `readme-document.md`: Task to create the README document.
+    - `security-document.md`: Task to create the security document.
+    - `structure-document.md`: Task to create the structure document.
+    - `user-guide-document.md`: Task to create the user guide.
+    - `validation-document.md`: Task to create the validation document.
+    - `vscode-configuration.md`: Task to configure VSCode.
 
-## Archivos en la Raíz
+## Root Files
 
-- `.gitignore`: Especifica los archivos y directorios que Git debe ignorar.
-- `LICENSE`: La licencia principal de este proyecto (MIT).
-- `README.md`: El punto de entrada principal del proyecto, con una visión general y enlaces clave.
+- `.gitignore`: Specifies files and directories that Git should ignore.
+- `LICENSE`: The main license of this project (MIT).
+- `README.md`: The main entry point of the project, with an overview and key links.
 
-## Estructura Después del Uso
+## Structure After Use
 
-Cuando sigas las instrucciones del README para organizar la plantilla, se creará la siguiente estructura:
+When you follow the README instructions to organize the template, the following structure will be created:
 
-- **`/project-kickstart/`** - Carpeta que contiene los archivos originales de la plantilla para referencia.
-  - `docs/`: Toda la documentación original de la plantilla.
-  - `README.md`: El README original de la plantilla.
+- **`/project-kickstart/`** - Folder containing the original template files for reference.
+  - `docs/`: All original template documentation.
+  - `README.md`: The original template README.
 
-**Nota**: Esta carpeta puede eliminarse una vez que ya no necesites los archivos de referencia de la plantilla.
+**Note**: This folder can be deleted once you no longer need the template reference files.

@@ -1,32 +1,32 @@
 ---
-name: Reporte de Error
-about: Crear un reporte para ayudar a mejorar el proyecto
-title: "[ERROR] "
+name: Bug Report
+about: Create a report to help improve the project
+title: "[BUG] "
 labels: "bug"
 assignees: ""
 ---
 
-## Descripción del Error
+## Bug Description
 
-Una descripción clara y concisa del problema.
+A clear and concise description of the problem.
 
-## Pasos para Reproducir
+## Steps to Reproduce
 
-1. Ir a '...'
-2. Hacer clic en '....'
-3. Desplazarse hacia abajo a '....'
-4. Ver el error
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See the error
 
-Si es aplicable, agrega capturas de pantalla para explicar el problema.
+If applicable, add screenshots to explain the problem.
 
-## Comportamiento Esperado
+## Expected Behavior
 
-Descripción clara de lo que esperabas que sucediera.
+Clear description of what you expected to happen.
 
-## Comportamiento Real
+## Actual Behavior
 
-Descripción clara de lo que realmente sucedió.
+Clear description of what actually happened.
 
-## Información Adicional
+## Additional Information
 
-Cualquier otro contexto sobre el problema.
+Any other context about the problem.

@@ -1,75 +1,75 @@
-# Guía de Desarrollo
+# Development Guide
 
-Esta guía explica cómo contribuir al desarrollo del proyecto de manera efectiva, cubriendo desde la configuración inicial hasta el flujo de trabajo completo para desarrolladores.
+This guide explains how to contribute to the project development effectively, covering from initial setup to the complete workflow for developers.
 
-Para una visión general del proyecto consulta el [Léeme](../README.md) principal, y si quieres contribuir al proyecto, consulta la [Guía de Contribución](CONTRIBUTING.md).
+For an overview of the project, check the main [Readme](../README.md), and if you want to contribute to the project, check the [Contribution Guide](CONTRIBUTING.md).
 
-## Metodología de Desarrollo
+## Development Methodology
 
-Este proyecto utiliza una metodología ágil adaptada para equipos pequeños o desarrolladores individuales, centrada en la claridad, la planificación y la calidad. El ciclo de vida del desarrollo se divide en 4 fases.
+This project uses an adapted agile methodology for small teams or individual developers, focused on clarity, planning and quality. The development life cycle is divided into 4 phases.
 
 ```
 ┌───────────┐    ┌───────────────┐    ┌────────────┐    ┌────────────┐
-│ Propuesta │ -> │ Planificación │ -> │ Desarrollo │ -> │ Validación │
+│ Proposal  │ -> │  Planning     │ -> │ Development│ -> │ Validation │
 └───────────┘    └───────────────┘    └────────────┘    └────────────┘
 ```
 
-### 1. Propuesta
+### 1. Proposal
 
-Fase inicial donde se define el problema a resolver, se plantea una solución y se establece el alcance del proyecto. El objetivo es validar la viabilidad de una idea antes de invertir recursos en su desarrollo.
+Initial phase where the problem to solve is defined, a solution is proposed and the project scope is established. The objective is to validate the feasibility of an idea before investing resources in its development.
 
-- **[Propuesta](PROPOSAL.md)**: Crea este documento para definir el problema que resuelves, la solución propuesta y el alcance del proyecto. Es el punto de partida que valida si la idea tiene sentido y merece la pena desarrollarla.
-- **[Licencia](../LICENSE)**: Decide qué licencia usar para tu proyecto.
+- **[Proposal](PROPOSAL.md)**: Create this document to define the problem you solve, the proposed solution and the project scope. It is the starting point that validates whether the idea makes sense and is worth developing.
+- **[License](../LICENSE)**: Decide which license to use for your project.
 
-Antes de continuar, es esencial que el equipo de desarrollo revise, participe activamente y apruebe la propuesta para asegurar su viabilidad técnica y alineación con los objetivos del proyecto.
+Before continuing, it is essential that the development team reviews, actively participates and approves the proposal to ensure its technical feasibility and alignment with the project objectives.
 
-### 2. Planificación
+### 2. Planning
 
-Una vez aprobada la propuesta, se desglosa el trabajo en tareas concretas. Se crea un plan de acción detallado, se definen los criterios de aceptación y se estiman los plazos y recursos.
+Once the proposal is approved, the work is broken down into concrete tasks. A detailed action plan is created, acceptance criteria are defined and deadlines and resources are estimated.
 
-- **[Plan de Acción](ACTION_PLAN.md)**: Define las fases, hitos, recursos necesarios y cronograma del proyecto. Establece cómo medirás el éxito y qué criterios usarás para validar los resultados.
-- **[Tareas](tasks/)**: Desglosa el trabajo en tareas específicas y manejables. Cada tarea debe tener criterios de aceptación claros y estimaciones de tiempo.
-- **[Validación](VALIDATION.md)**: Define los criterios de aceptación y el proceso para verificar que los resultados cumplen con los objetivos establecidos en la propuesta.
+- **[Action Plan](ACTION_PLAN.md)**: Defines the phases, milestones, required resources and project schedule. Establishes how you will measure success and what criteria you will use to validate the results.
+- **[Tasks](tasks/)**: Break down the work into specific and manageable tasks. Each task should have clear acceptance criteria and time estimates.
+- **[Validation](VALIDATION.md)**: Define acceptance criteria and the process to verify that the results meet the objectives established in the proposal.
 
-Continúa con el resto de los documentos para establecer las reglas de desarrollo:
+Continue with the rest of the documents to establish development rules:
 
-- **[Créditos](CREDITS.md)**: Reconoce las contribuciones, herramientas utilizadas y agradecimientos del proyecto.
-- **[README.md](../README.md)**: Crea el documento principal de tu proyecto que explique qué hace, cómo instalarlo y cómo usarlo. Este será el primer documento que vean los usuarios.
-- **[Código de Conducta](CODE_OF_CONDUCT.md)**: Establece las normas de comportamiento y convivencia para la comunidad del proyecto.
-- **[Guía de Seguridad](SECURITY.md)**: Define las políticas de seguridad, cómo reportar vulnerabilidades y procedimientos de respuesta.
-- **[Guía de Contribución](CONTRIBUTING.md)**: Define cómo otros desarrolladores pueden contribuir a tu proyecto, incluyendo estándares de código y proceso de revisión.
-- **[Guía de Usuario](USER_GUIDE.md)**: Documenta cómo los usuarios finales deben utilizar tu aplicación o producto, incluyendo ejemplos prácticos y casos de uso.
-- **[Estructura del Proyecto](STRUCTURE.md)**: Documenta la arquitectura y organización de archivos y carpetas de tu proyecto.
-- **[Guía de Desarrollo](DEVELOPMENT_GUIDE.md)**: Establece los estándares técnicos, convenciones de código y metodología de desarrollo para el equipo.
+- **[Credits](CREDITS.md)**: Acknowledge contributions, tools used and project acknowledgements.
+- **[README.md](../README.md)**: Create the main document of your project that explains what it does, how to install it and how to use it. This will be the first document users see.
+- **[Code of Conduct](CODE_OF_CONDUCT.md)**: Establish behavior and coexistence standards for the project community.
+- **[Security Guide](SECURITY.md)**: Define security policies, how to report vulnerabilities and response procedures.
+- **[Contribution Guide](CONTRIBUTING.md)**: Define how other developers can contribute to your project, including code standards and review process.
+- **[User Guide](USER_GUIDE.md)**: Document how end users should use your application or product, including practical examples and use cases.
+- **[Project Structure](STRUCTURE.md)**: Document the architecture and organization of files and folders of your project.
+- **[Development Guide](DEVELOPMENT_GUIDE.md)**: Establish technical standards, code conventions and development methodology for the team.
 
-### 3. Desarrollo
+### 3. Development
 
-Fase de implementación donde el equipo escribe el código, actualiza la documentación y realiza las configuraciones necesarias, siguiendo los estándares y el plan definidos.
+Implementation phase where the team writes code, updates documentation and performs necessary configurations, following defined standards and plan.
 
-Recuerda que la documentación es un componente vivo del proyecto. Cada vez que se realicen cambios significativos en la documentación y el código, es una buena práctica revisar y actualizar todos los documentos relevantes, para asegurar que la información se mantenga precisa y útil para todo el equipo.
+Remember that documentation is a living component of the project. Each time significant changes are made to documentation and code, it is good practice to review and update all relevant documents, to ensure that information remains accurate and useful for the entire team.
 
-Mantén actualizado el [Léeme](../README.md), el [Plan de acción](ACTION_PLAN.md) y el registro de [Tareas](tasks/).
+Keep the [Readme](../README.md), [Action Plan](ACTION_PLAN.md) and [Tasks](tasks/) log updated.
 
-### 4. Validación
+### 4. Validation
 
-Etapa final donde se verifica que el resultado cumple con todos los criterios de aceptación y los objetivos del proyecto. En esta fase también se analizan los resultados para aprender tanto de los éxitos como de los errores, con el fin de mejorar en futuras iteraciones. Este proceso se realiza antes de un lanzamiento importante o al finalizar el proyecto.
+Final stage where it is verified that the result meets all acceptance criteria and project objectives. In this phase, the results are also analyzed to learn from both successes and failures, in order to improve in future iterations. This process is performed before a major release or at the end of the project.
 
-## Estándares y Guías Técnicas
+## Technical Standards and Guides
 
-Para asegurar la coherencia, calidad y eficiencia en el desarrollo del proyecto, es imprescindible adherirse a los estándares y flujos de trabajo definidos en los siguientes documentos especializados. Esta sección actúa como un índice y recordatorio de las guías técnicas fundamentales.
+To ensure consistency, quality and efficiency in project development, it is essential to adhere to the standards and workflows defined in the following specialized documents. This section acts as an index and reminder of the fundamental technical guides.
 
-- **Configuración del Entorno:** Para una puesta a punto rápida y correcta de tu espacio de trabajo local, consulta la sección de **[Inicio Rápido del README.md](../README.md#inicio-rápido)**. Aquí encontrarás las instrucciones detalladas para comenzar a desarrollar.
+- **Environment Setup:** For a quick and correct setup of your local workspace, check the **[Quick Start section of README.md](../README.md#quick-start)**. Here you will find detailed instructions to start developing.
 
-- **Estructura del Proyecto:** Comprender la organización interna del proyecto es clave. La **[Guía de Estructura](STRUCTURE.md)** detalla la disposición de directorios, archivos y componentes principales, facilitando la navegación y el mantenimiento.
+- **Project Structure:** Understanding the internal organization of the project is key. The **[Structure Guide](STRUCTURE.md)** details the arrangement of directories, files and main components, facilitating navigation and maintenance.
 
-- **Flujo de Trabajo de Contribución:** El proceso para realizar aportaciones al proyecto, desde la creación de ramas hasta la gestión de Pull Requests, se describe exhaustivamente en la **[Guía de Contribución](CONTRIBUTING.md)**. Este documento también cubre la estrategia de ramas, las convenciones de mensajes de commit y el ciclo de revisión.
+- **Contribution Workflow:** The process for making contributions to the project, from branch creation to Pull Request management, is exhaustively described in the **[Contribution Guide](CONTRIBUTING.md)**. This document also covers the branch strategy, commit message conventions and review cycle.
 
-  La rama `develop` es utilizada por los desarrolladores internos y se deriva de la rama `staging`. Esta rama está destinada a un desarrollo más flexible y experimental, permitiendo la integración de nuevas funcionalidades y pruebas iniciales antes de su consolidación. Además, facilita un entorno de trabajo cómodo para la comunicación y el desarrollo en el idioma materno.
+  The `develop` branch is used by internal developers and derives from the `staging` branch. This branch is intended for more flexible and experimental development, allowing the integration of new features and initial testing before consolidation. In addition, it facilitates a comfortable working environment for communication and development in the native language.
 
-- **Calidad y Estándares de Código:** Para mantener un código limpio, legible y consistente, las directrices de formato y las herramientas de análisis estático (`linting`) están especificadas en la sección "Calidad del Código" de la **[Guía de Contribución](CONTRIBUTING.md#calidad-del-código)**. Su cumplimiento es vital para la integración de nuevas funcionalidades.
+- **Code Quality and Standards:** To maintain clean, readable and consistent code, formatting guidelines and static analysis tools (`linting`) are specified in the "Code Quality" section of the **[Contribution Guide](CONTRIBUTING.md#code-quality)**. Compliance with these is vital for integrating new features.
 
-El seguimiento riguroso de estas guías es un pilar fundamental para el éxito y la sostenibilidad del proyecto.
+Rigorous adherence to these guides is a fundamental pillar for the success and sustainability of the project.
 
-## Feedback y Mejoras
+## Feedback and Improvements
 
-Esta guía es un documento vivo que evoluciona con el proyecto. Si tienes sugerencias para mejorarla, no dudes en abrir un [issue](https://github.com/sergio-ridaura/project-kickstart/issues) para discutirlo con el equipo.
+This guide is a living document that evolves with the project. If you have suggestions for improving it, feel free to open an [issue](https://github.com/sergio-ridaura/project-kickstart/issues) to discuss it with the team.

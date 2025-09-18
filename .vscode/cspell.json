@@ -1,23 +1,12 @@
 {
   "version": "0.2",
-  "language": "en-GB, en-US, en, es-ES, es, lorem",
+  "language": "en-GB, en-US, en, lorem",
   "ignorePaths": [],
   "dictionaryDefinitions": [],
   "dictionaries": [],
   "words": [
-    "actualízalo",
-    "conceptualizar",
-    "contáctame",
-    "ehthumbs",
-    "enfócate",
-    "etnicidad",
-    "inicialización",
-    "inmersivas",
-    "preconfigurada",
-    "Refactorización",
-    "repórtalo",
     "ridaura",
-    "sublicenciar"
+    "kickstart"
   ],
   "ignoreWords": [],
   "import": []

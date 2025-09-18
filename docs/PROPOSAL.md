@@ -1,40 +1,40 @@
-# Propuesta: Project Kickstart
+# Proposal: Project Kickstart
 
-Este documento propone una solución para resolver una necesidad. Su objetivo es comunicar los beneficios y alcance del proyecto inicial para facilitar decisiones y colaboración.
+This document proposes a solution to address a need. Its objective is to communicate the benefits and scope of the initial project to facilitate decisions and collaboration.
 
-## Descripción
+## Description
 
-Una plantilla ligera y optimizada para iniciar proyectos de cualquier tipo. Incluye configuraciones esenciales para GitHub y Visual Studio Code, permitiendo a los desarrolladores enfocarse en el desarrollo desde el primer momento.
+A lightweight and optimized template to start projects of any kind. It includes essential configurations for GitHub and Visual Studio Code, allowing developers to focus on development from the very beginning.
 
-## Problema
+## Problem
 
-Configurar un entorno de desarrollo desde cero puede ser tedioso y consumir tiempo valioso que podría dedicarse al desarrollo del proyecto.
+Setting up a development environment from scratch can be tedious and consume valuable time that could be dedicated to project development.
 
-### Problemas Clave
+### Key Issues
 
-- **Tiempo perdido**: Configurar herramientas y flujos de trabajo desde cero consume tiempo.
-- **Errores comunes**: La falta de configuraciones estándar puede llevar a errores evitables.
-- **Falta de consistencia**: Los equipos pueden tener configuraciones diferentes, dificultando la colaboración.
+- **Time lost**: Setting up tools and workflows from scratch consumes time.
+- **Common errors**: Lack of standard configurations can lead to avoidable errors.
+- **Lack of consistency**: Teams may have different configurations, making collaboration difficult.
 
-## Solución
+## Solution
 
-Proveer una plantilla preconfigurada que incluya las herramientas y configuraciones esenciales para comenzar a desarrollar de inmediato.
+Provide a preconfigured template that includes the essential tools and configurations to start developing immediately.
 
-### Soluciones Clave
+### Key Solutions
 
-- **Configuraciones estándar**: Incluye configuraciones para GitHub y Visual Studio Code.
-- **Facilidad de uso**: Lista para usar sin necesidad de configuraciones adicionales.
-- **Optimización del tiempo**: Permite a los desarrolladores enfocarse en el desarrollo en lugar de en configuraciones iniciales.
+- **Standard configurations**: Includes configurations for GitHub and Visual Studio Code.
+- **Ease of use**: Ready to use without additional configurations.
+- **Time optimization**: Allows developers to focus on development rather than initial configurations.
 
-### Qué NO incluye
+### What it does NOT include
 
-- Configuraciones específicas para lenguajes de programación.
-- Documentación personalizada para proyectos específicos.
+- Specific configurations for programming languages.
+- Custom documentation for specific projects.
 
-## Conclusión
+## Conclusion
 
-Project Kickstart es una solución ideal para desarrolladores y equipos que buscan iniciar proyectos rápidamente con configuraciones estándar y optimizadas. Reduce el tiempo de configuración inicial y mejora la consistencia en los entornos de desarrollo.
+Project Kickstart is an ideal solution for developers and teams looking to start projects quickly with standard and optimized configurations. It reduces initial setup time and improves consistency in development environments.
 
-## ¿Te gustaría aportar?
+## Would you like to contribute?
 
-Tu opinión es fundamental para mejorar esta plantilla. Si tienes sugerencias, comentarios o identificas áreas de mejora, por favor comparte tu feedback abriendo un [issue](https://github.com/sergio-ridaura/project-kickstart/issues) o enviando un pull request. ¡Toda contribución es bienvenida!
+Your opinion is fundamental to improve this template. If you have suggestions, comments or identify areas for improvement, please share your feedback by opening an [issue](https://github.com/sergio-ridaura/project-kickstart/issues) or sending a pull request. Any contribution is welcome!

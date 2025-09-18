@@ -1,31 +1,31 @@
-# Tarea: Código de Conducta
+# Task: Code of Conduct
 
-Crear código de conducta que establezca normas de comportamiento y procedimientos para mantener un ambiente inclusivo y respetuoso en el proyecto.
+Create a code of conduct that establishes behavior standards and procedures to maintain an inclusive and respectful environment in the project.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Media          |
-| **Previsión**   | 1 hora         |
-| **Tiempo**      | 1 hora         |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | Medium         |
+| **Estimate**    | 1 hour         |
+| **Time**        | 1 hour         |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación**: El archivo `CODE_OF_CONDUCT.md` debe estar en la raíz del repositorio.
-- [x] **Normas claras y detalladas**: Definir de manera explícita los comportamientos esperados y no aceptables dentro de la comunidad del proyecto.
-- [x] **Procedimiento de reporte y aplicación**: Establecer pasos claros para reportar, gestionar y resolver violaciones al código de conducta.
-- [x] **Referencia a estándares reconocidos**: Basar el documento en modelos ampliamente aceptados, como el Contributor Covenant, e incluir enlaces a recursos oficiales.
-- [x] **Lenguaje inclusivo y profesional**: Garantizar que el texto promueva un ambiente respetuoso, seguro e inclusivo para todos los participantes.
+- [x] **Location**: The `CODE_OF_CONDUCT.md` file must be in the root of the repository.
+- [x] **Clear and detailed standards**: Explicitly define expected and unacceptable behaviors within the project community.
+- [x] **Reporting and enforcement procedure**: Establish clear steps to report, manage and resolve code of conduct violations.
+- [x] **Reference to recognized standards**: Base the document on widely accepted models, such as the Contributor Covenant, and include links to official resources.
+- [x] **Inclusive and professional language**: Ensure that the text promotes a respectful, safe and inclusive environment for all participants.
 
-## Dependencias
+## Dependencies
 
-_No existen dependencias asociadas a esta tarea._
+_There are no dependencies associated with this task._
 
-## Recursos
+## Resources
 
-- [Contributor Covenant](https://www.contributor-covenant.org/) - Código de conducta estándar de la industria
+- [Contributor Covenant](https://www.contributor-covenant.org/) - Industry standard code of conduct
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

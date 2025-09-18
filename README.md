@@ -2,94 +2,94 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
 
-## Descripción General
+## Overview
 
-Project Kickstart es una plantilla ligera y optimizada para iniciar proyectos de cualquier tipo, con configuraciones estándar para GitHub y Visual Studio Code. Su objetivo es reducir el tiempo de configuración inicial y mejorar la consistencia en los entornos de desarrollo, permitiendo a los desarrolladores enfocarse en lo importante desde el primer momento.
+Project Kickstart is a lightweight and optimized template to start projects of any kind, with standard configurations for GitHub and Visual Studio Code. Its goal is to reduce initial setup time and improve consistency in development environments, allowing developers to focus on what matters from the beginning.
 
-## Características Clave
+## Key Features
 
-- **Configuraciones estándar**: Incluye configuraciones para GitHub y Visual Studio Code.
-- **Facilidad de uso**: Lista para usar sin necesidad de configuraciones adicionales.
-- **Optimización del tiempo**: Permite a los desarrolladores enfocarse en el desarrollo en lugar de en configuraciones iniciales.
+- **Standard configurations**: Includes configurations for GitHub and Visual Studio Code.
+- **Ease of use**: Ready to use without additional configurations.
+- **Time optimization**: Allows developers to focus on development rather than initial configurations.
 
-## Requisitos Previos
+## Prerequisites
 
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Git](https://git-scm.com)
-- Cuenta en [GitHub](https://github.com)
+- [GitHub](https://github.com) account
 
-## Inicio Rápido
+## Quick Start
 
-1. Haz clic en **Use this template** en la [página del proyecto](https://github.com/sergio-ridaura/project-kickstart) o clona el repositorio:
+1. Click **Use this template** on the [project page](https://github.com/sergio-ridaura/project-kickstart) or clone the repository:
 
    ```bash
-   # Clonar la plantilla con el nombre de tu proyecto
+   # Clone the template with your project name
    git clone https://github.com/sergio-ridaura/project-kickstart.git my-project
 
-   # Navegar al directorio del proyecto
+   # Navigate to the project directory
    cd my-project
 
-   # Abrir en Visual Studio Code
+   # Open in Visual Studio Code
    code .
 
-   # Inicializar nuevo repositorio Git
+   # Initialize new Git repository
    git init
    ```
 
-2. **Revisa la guía [Guía de Usuario](docs/USER_GUIDE.md)** de la plantilla para familiarizarte con la plantilla y conocer el flujo recomendado. Si ya tienes experiencia, puedes omitir este paso.
+2. **Review the [User Guide](docs/USER_GUIDE.md)** of the template to familiarize yourself with the template and learn the recommended workflow. If you already have experience, you can skip this step.
 
-3. **Organizar la plantilla** para separar la documentación de la plantilla de tu proyecto:
+3. **Organize the template** to separate the template documentation from your project:
 
    ```bash
-   # Crear carpeta para archivar la plantilla
+   # Create folder to archive the template
    mkdir -p project-kickstart
 
-   # Mover la documentación de la plantilla
+   # Move template documentation
    mv docs project-kickstart/
    mv README.md project-kickstart/
    ```
 
-4. **Personaliza la documentación** usando como referencia los documentos de la plantilla. Crea tu propio Léeme, documentación básica y estructura de proyecto basándote en los ejemplos de `project-kickstart`. Una vez que tengas tu documentación lista, elimina la carpeta de la plantilla.
+4. **Customize the documentation** using the template documents as reference. Create your own Readme, basic documentation and project structure based on the examples in `project-kickstart`. Once you have your documentation ready, delete the template folder.
 
-5. **Comienza el desarrollo** de tu aplicación siguiendo las pautas y buenas prácticas definidas en la documentación del proyecto.
+5. **Start development** of your application following the guidelines and best practices defined in the project documentation.
 
-🚀 ¡Eso es todo! Ya tienes un entorno listo para desarrollar de forma ágil, eficiente y bien estructurada.
+🚀 That's it! You now have an environment ready to develop in an agile, efficient and well-structured way.
 
-## Documentación
+## Documentation
 
-Comienza leyendo **[Guía de Usuario](docs/USER_GUIDE.md)** de la plantilla y sigue las indicaciones.
+Start by reading the template **[User Guide](docs/USER_GUIDE.md)** and follow the instructions.
 
-- [Licencia](LICENSE) - Términos de uso y distribución
-- [Código de Conducta](docs/CODE_OF_CONDUCT.md) - Normas de la comunidad
-- [Seguridad](docs/SECURITY.md) - Políticas de seguridad
-- [Guía de Contribución](docs/CONTRIBUTING.md) - Cómo participar en el proyecto
-- [Créditos](docs/CREDITS.md) - Agradecimientos y reconocimientos
+- [License](LICENSE) - Terms of use and distribution
+- [Code of Conduct](docs/CODE_OF_CONDUCT.md) - Community standards
+- [Security](docs/SECURITY.md) - Security policies
+- [Contribution Guide](docs/CONTRIBUTING.md) - How to participate in the project
+- [Credits](docs/CREDITS.md) - Acknowledgements and recognitions
 
-🐱 ¿Sugerencias o problemas? Abre un [issue](https://github.com/sergio-ridaura/project-kickstart/issues) o contáctame directamente.
+🐱 Suggestions or issues? Open an [issue](https://github.com/sergio-ridaura/project-kickstart/issues) or contact me directly.
 
-### Proyecto
+### Project
 
-Para una visión general del proyecto, consulta los siguientes documentos:
+For an overview of the project, check the following documents:
 
-- [Propuesta](docs/PROPOSAL.md) - Definición y alcance del proyecto
-- [Plan de Acción](docs/ACTION_PLAN.md) - Implementación del proyecto
-- [Tareas del Plan de Acción](docs/tasks) - Desglose detallado de tareas
-- [Guía de Desarrollo](docs/DEVELOPMENT_GUIDE.md) - Metodología completa de trabajo
-- [Estructura del Proyecto](docs/STRUCTURE.md) - Arquitectura y organización
-- [Validación del Proyecto](docs/VALIDATION.md) - Criterios de validación y resultados
+- [Proposal](docs/PROPOSAL.md) - Project definition and scope
+- [Action Plan](docs/ACTION_PLAN.md) - Project implementation
+- [Action Plan Tasks](docs/tasks) - Detailed breakdown of tasks
+- [Development Guide](docs/DEVELOPMENT_GUIDE.md) - Complete working methodology
+- [Project Structure](docs/STRUCTURE.md) - Architecture and organization
+- [Project Validation](docs/VALIDATION.md) - Validation criteria and results
 
-🤝 Este es un proyecto de código abierto y las contribuciones son bienvenidas. Para más información, consulta la [Guía de Contribución](docs/CONTRIBUTING.md).
+🤝 This is an open source project and contributions are welcome. For more information, see the [Contribution Guide](docs/CONTRIBUTING.md).
 
-## Sobre el Autor
+## About the Author
 
-**¡Hola! 👋 Soy [Sergio Ridaura](https://sergio-ridaura.github.io/sergio-ridaura/)**
+**Hello! 👋 I'm [Sergio Ridaura](https://sergio-ridaura.github.io/sergio-ridaura/)**
 
-[![Blog](https://img.shields.io/badge/Mi-Blog-orange)](https://sergio-ridaura.github.io/sergio-ridaura/) [![LinkedIn](https://img.shields.io/badge/Mi%20Perfil-LinkedIn-blue)](https://www.linkedin.com/in/sergio-ridaura/) [![GitHub](https://img.shields.io/badge/Mi-GitHub-black)](https://github.com/sergio-ridaura/)
+[![Blog](https://img.shields.io/badge/My-Blog-orange)](https://sergio-ridaura.github.io/sergio-ridaura/) [![LinkedIn](https://img.shields.io/badge/My%20Profile-LinkedIn-blue)](https://www.linkedin.com/in/sergio-ridaura/) [![GitHub](https://img.shields.io/badge/My-GitHub-black)](https://github.com/sergio-ridaura/)
 
-Desarrollador Full-Stack con experiencia en [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) y en transición hacia [Rust](https://www.rust-lang.org).
+Full-Stack Developer with experience in [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) and transitioning to [Rust](https://www.rust-lang.org).
 
-Me apasiona explorar tecnologías emergentes, especialmente [Context Engineering](https://www.promptingguide.ai/guides/context-engineering-guide) e [Inteligencia Artificial](https://aws.amazon.com/what-is/artificial-intelligence) aplicada al desarrollo. También me interesan [WebAssembly](https://webassembly.org), experiencias inmersivas con [VR](https://www.oculus.com) y [AR](https://www.microsoft.com/hololens), y las nuevas capacidades gráficas de [WebGPU](https://www.w3.org/TR/webgpu).
+I'm passionate about exploring emerging technologies, especially [Context Engineering](https://www.promptingguide.ai/guides/context-engineering-guide) and [Artificial Intelligence](https://aws.amazon.com/what-is/artificial-intelligence) applied to development. I'm also interested in [WebAssembly](https://webassembly.org), immersive experiences with [VR](https://www.oculus.com) and [AR](https://www.microsoft.com/hololens), and the new graphic capabilities of [WebGPU](https://www.w3.org/TR/webgpu).
 
-Mis herramientas favoritas para crear aplicaciones son [TypeScript](https://www.typescriptlang.org), [React](https://react.dev), [Node.js](https://nodejs.org) y [MySQL](https://www.mysql.com).
+My favorite tools for creating applications are [TypeScript](https://www.typescriptlang.org), [React](https://react.dev), [Node.js](https://nodejs.org) and [MySQL](https://www.mysql.com).
 
-⭐ ¿Te gusta este proyecto? ¡Dale una estrella y compártelo!
+⭐ Do you like this project? Give it a star and share it!

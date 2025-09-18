@@ -1,30 +1,30 @@
-# Tarea: Configuración de Visual Studio Code
+# Task: Visual Studio Code Configuration
 
-Configura los archivos de Visual Studio Code para optimizar el entorno de desarrollo del proyecto, incluyendo la recomendación de extensiones y ajustes personalizados que faciliten el trabajo colaborativo y mejoren la productividad.
+Configure Visual Studio Code files to optimize the project development environment, including recommended extensions and custom settings that facilitate collaborative work and improve productivity.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 2 horas        |
-| **Tiempo**      | 2 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 2 hours        |
+| **Time**        | 2 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Archivo extensions.json**: Crear archivo `.vscode/extensions.json` con extensiones recomendadas para el desarrollo del proyecto.
-- [x] **Archivo settings.json**: Configurar `.vscode/settings.json` con configuraciones específicas del workspace para mejorar la experiencia de desarrollo.
-- [x] **Integración de cspell**: Añadir y configurar la extensión `cspell` en `.vscode/extensions.json` y crear el archivo `.vscode/cspell.json` para definir reglas personalizadas de ortografía que permitan detectar errores en el código y la documentación.
+- [x] **extensions.json file**: Create `.vscode/extensions.json` file with recommended extensions for project development.
+- [x] **settings.json file**: Configure `.vscode/settings.json` with specific workspace configurations to improve the development experience.
+- [x] **cspell integration**: Add and configure the `cspell` extension in `.vscode/extensions.json` and create the `.vscode/cspell.json` file to define custom spelling rules that allow detecting errors in code and documentation.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Visual Studio Code instalado.
+**Requires**: Visual Studio Code installed.
 
-## Recursos
+## Resources
 
 - [VSCode Docs - Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings#_workspace-settings)
 - [VSCode Docs - Extension Recommendations](https://code.visualstudio.com/docs/editor/extension-marketplace#_workspace-recommended-extensions)
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

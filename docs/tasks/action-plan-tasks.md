@@ -1,33 +1,33 @@
-# Tarea: Documentos de Tareas del Plan de Acción
+# Task: Action Plan Task Documents
 
-Esta tarea consiste en crear y mantener documentos de tareas individuales para cada elemento del plan de acción, asegurando trazabilidad, seguimiento y alineación directa con los apartados y enlaces definidos en el Plan de acción.
+This task consists of creating and maintaining individual task documents for each element of the action plan, ensuring traceability, tracking and direct alignment with the sections and links defined in the Action Plan.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 16 horas       |
-| **Tiempo**      | 16 horas       |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 16 hours       |
+| **Time**        | 16 hours       |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación consistente**: Todos los documentos están en `docs/tasks/` con nomenclatura estándar.
-- [x] **Estructura estándar**: Cada documento incluye título, descripción, tabla de metadatos (Estado, Responsable, Prioridad, Previsión, Tiempo), criterios de aceptación, dependencias, recursos y comentarios.
-- [x] **Configuración Inicial**: Documentos creados para repositorio GitHub, configuración GitHub, configuración VSCode, propuesta y plan de acción.
-- [x] **Documentación del Proyecto**: Documentos creados para créditos, README, seguridad, contribución, código de conducta y validación.
-- [x] **Documentación de Usuario**: Documentos creados para guía de usuario, estructura del proyecto y guía de desarrollo.
-- [x] **Enlaces bidireccionales**: Plan de acción enlaza a tareas y tareas referencian dependencias cuando corresponde.
-- [x] **Estados sincronizados**: Estados de tareas individuales alineados con progreso del plan (completadas/pendientes).
+- [x] **Consistent location**: All documents are in `docs/tasks/` with standard nomenclature.
+- [x] **Standard structure**: Each document includes title, description, metadata table (Status, Responsible, Priority, Estimate, Time), acceptance criteria, dependencies, resources and comments.
+- [x] **Initial Setup**: Documents created for GitHub repository, GitHub configuration, VSCode configuration, proposal and action plan.
+- [x] **Project Documentation**: Documents created for credits, README, security, contribution, code of conduct and validation.
+- [x] **User Documentation**: Documents created for user guide, project structure and development guide.
+- [x] **Bidirectional links**: Action plan links to tasks and tasks reference dependencies where appropriate.
+- [x] **Synchronized states**: Individual task states aligned with plan progress (completed/pending).
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Documento de [Plan de acción](../ACTION_PLAN.md) definido y actualizado.
+**Requires**: Defined and updated [Action Plan](../ACTION_PLAN.md) document.
 
-## Recursos
+## Resources
 
-_No se requieren recursos externos para esta tarea._
+_No external resources required for this task._
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

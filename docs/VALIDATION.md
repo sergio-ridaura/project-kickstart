@@ -1,50 +1,50 @@
-# Validación del Proyecto
+# Project Validation
 
-Este documento describe el proceso y los resultados de la validación del proyecto, asegurando que cumple con los objetivos y criterios de éxito definidos en la [Propuesta](PROPOSAL.md).
+This document describes the project validation process and results, ensuring that it meets the objectives and success criteria defined in the [Proposal](PROPOSAL.md).
 
-## Introducción
+## Introduction
 
-El propósito de este documento es formalizar el proceso de validación, estableciendo un marco claro para verificar que el proyecto cumple con los requisitos funcionales y de calidad establecidos. La validación se realiza para asegurar que el producto final es robusto, eficiente y satisface las necesidades del usuario.
+The purpose of this document is to formalize the validation process, establishing a clear framework to verify that the project meets the established functional and quality requirements. Validation is performed to ensure that the final product is robust, efficient and satisfies user needs.
 
-## Criterios de Validación
+## Validation Criteria
 
-Los criterios de validación se basan en los objetivos definidos en la [Propuesta](PROPOSAL.md) y los criterios de éxito del [Plan de Acción](ACTION_PLAN.md).
+Validation criteria are based on the objectives defined in the [Proposal](PROPOSAL.md) and success criteria of the [Action Plan](ACTION_PLAN.md).
 
-- **Reducción del Tiempo de Configuración**:
+- **Setup Time Reduction**:
 
-  - **Criterio**: Los usuarios pueden iniciar un proyecto y tenerlo listo en su entorno local en menos de 5 minutos.
-  - **Método**: Cronometrar el proceso siguiendo los pasos de la sección "Inicio Rápido" del archivo `README.md`.
+  - **Criterion**: Users can start a project and have it ready in their local environment in less than 5 minutes.
+  - **Method**: Time the process by following the steps in the "Quick Start" section of the `README.md` file.
 
-- **Consistencia de la Configuración**:
+- **Configuration Consistency**:
 
-  - **Criterio**: Las configuraciones de VS Code y los archivos del repositorio son compatibles y funcionales en los principales sistemas operativos (Windows, macOS, Linux).
-  - **Método**: Probar la plantilla en diferentes entornos para asegurar que no haya conflictos ni errores de configuración.
+  - **Criterion**: VS Code configurations and repository files are compatible and functional on major operating systems (Windows, macOS, Linux).
+  - **Method**: Test the template in different environments to ensure there are no conflicts or configuration errors.
 
-- **Integridad y Claridad de la Documentación**:
+- **Documentation Integrity and Clarity**:
 
-  - **Criterio**: La documentación es completa, coherente y fácil de entender para un nuevo usuario.
-  - **Método**: Revisar que todos los documentos enlazados en el `README.md` y el `ACTION_PLAN.md` estén finalizados y alineados con el propósito del proyecto.
+  - **Criterion**: Documentation is complete, coherent and easy to understand for a new user.
+  - **Method**: Check that all documents linked in `README.md` and `ACTION_PLAN.md` are completed and aligned with the project's purpose.
 
-- **Cumplimiento del Plan de Acción**:
-  - **Criterio**: El 100% de las tareas definidas en el Plan de Acción están completadas.
-  - **Método**: Verificar el estado de todas las tareas listadas en el plan de implementación.
+- **Action Plan Compliance**:
+  - **Criterion**: 100% of the tasks defined in the Action Plan are completed.
+  - **Method**: Verify the status of all tasks listed in the implementation plan.
 
-## Resultados de la Validación
+## Validation Results
 
-En esta sección se registran los resultados de las pruebas de validación.
+This section records the results of the validation tests.
 
-| Criterio                              | Resultado | Observaciones                                                          |
-| ------------------------------------- | --------- | ---------------------------------------------------------------------- |
-| Reducción del Tiempo de Configuración | Éxito     | El proceso de clonado y apertura es inmediato, cumpliendo el objetivo. |
-| Consistencia de la Configuración      | Éxito     | Las configuraciones son estándar y no dependen del sistema operativo.  |
-| Integridad de la Documentación        | Éxito     | Toda la documentación ha sido completada satisfactoriamente.           |
-| Cumplimiento del Plan de Acción       | Éxito     | 15 de 15 tareas completadas (100%). Proyecto finalizado exitosamente.  |
+| Criterion                 | Result  | Observations                                                    |
+| ------------------------- | ------- | --------------------------------------------------------------- |
+| Setup Time Reduction      | Success | The cloning and opening process is immediate, meeting the goal. |
+| Configuration Consistency | Success | Configurations are standard and OS-independent.                 |
+| Documentation Integrity   | Success | All documentation has been successfully completed.              |
+| Action Plan Compliance    | Success | 15 of 15 tasks completed (100%). Project successfully finished. |
 
-## Acciones a Tomar
+## Actions to Take
 
-Basado en el estado actual del proyecto, la validación ha sido completada exitosamente.
+Based on the current state of the project, validation has been successfully completed.
 
-- **Completar Desarrollo**: Completado.
-- **Ejecutar Validación**: Completado.
-- **Documentar Resultados**: Completado.
-- **Preparar Release**: Listo para preparar el lanzamiento.
+- **Complete Development**: Completed.
+- **Run Validation**: Completed.
+- **Document Results**: Completed.
+- **Prepare Release**: Ready to prepare the release.

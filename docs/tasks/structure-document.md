@@ -1,30 +1,30 @@
-# Tarea: Documento de Estructura
+# Task: Structure Document
 
-Crear documento de estructura del proyecto que explique la organización completa de directorios, archivos y su función dentro del sistema de plantillas inteligentes.
+Create a project structure document that explains the complete organization of directories, files and their function within the smart template system.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Media          |
-| **Previsión**   | 2 horas        |
-| **Tiempo**      | 2 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | Medium         |
+| **Estimate**    | 2 hours        |
+| **Time**        | 2 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación**: El archivo `STRUCTURE.md` debe estar en la raíz del repositorio o en la carpeta principal de documentación.
-- [x] **Estructura completa y actualizada**: Documentar la organización de todos los directorios y archivos relevantes, reflejando la estructura real del proyecto.
-- [x] **Descripción detallada de componentes**: Explicar la función y propósito de cada directorio y archivo principal, facilitando la comprensión para nuevos usuarios y colaboradores.
-- [x] **Formato claro y navegable**: Utilizar listas o secciones bien definidas para mejorar la legibilidad y consulta rápida.
+- [x] **Location**: The `STRUCTURE.md` file must be in the root of the repository or in the main documentation folder.
+- [x] **Complete and updated structure**: Document the organization of all relevant directories and files, reflecting the actual project structure.
+- [x] **Detailed description of components**: Explain the function and purpose of each main directory and file, facilitating understanding for new users and collaborators.
+- [x] **Clear and navigable format**: Use lists or well-defined sections to improve readability and quick consultation.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Estructura del proyecto definida y actualizada.
+**Requires**: Defined and updated project structure.
 
-## Recursos
+## Resources
 
-_No se requieren recursos externos para esta tarea._
+_No external resources required for this task._
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

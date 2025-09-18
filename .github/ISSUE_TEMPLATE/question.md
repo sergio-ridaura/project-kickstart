@@ -1,19 +1,19 @@
 ---
-name: Pregunta
-about: Hacer una pregunta sobre el proyecto
-title: "[PREGUNTA] "
+name: Question
+about: Ask a question about the project
+title: "[QUESTION] "
 labels: "question"
 assignees: ""
 ---
 
-## Tu Pregunta
+## Your Question
 
-Describe claramente tu pregunta.
+Clearly describe your question.
 
-## Contexto
+## Context
 
-Proporciona cualquier contexto adicional que pueda ser útil.
+Provide any additional context that may be useful.
 
-## Lo que has intentado
+## What you've tried
 
-Describe lo que has intentado hacer o investigar antes de preguntar.
+Describe what you've tried to do or investigate before asking.

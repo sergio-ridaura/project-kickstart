@@ -1,90 +1,90 @@
-# Guía de Usuario
+# User Guide
 
-Esta guía proporciona instrucciones detalladas para usuarios finales sobre cómo utilizar la aplicación de manera efectiva.
+This guide provides detailed instructions for end users on how to use the application effectively.
 
-Para una visión general del proyecto consulta el [Léeme](../README.md) principal, y si eres desarrollador y quieres contribuir al proyecto, revisa la [Guía de Desarrollo](DEVELOPMENT_GUIDE.md).
+For an overview of the project, check the main [Readme](../README.md), and if you are a developer and want to contribute to the project, review the [Development Guide](DEVELOPMENT_GUIDE.md).
 
-## Personalización
+## Customization
 
-Esta sección te guía paso a paso para adaptar la plantilla a cualquier tipo de proyecto, siguiendo un proceso estructurado de 3 fases.
+This section guides you step by step to adapt the template to any type of project, following a structured 3-phase process.
 
 ```
 ┌───────────┐    ┌───────────────┐    ┌────────────┐
-│ Propuesta │ -> │ Planificación │ -> │ Desarrollo │
+│ Proposal  │ -> │  Planning     │ -> │ Development│
 └───────────┘    └───────────────┘    └────────────┘
 ```
 
-### 1. Propuesta
+### 1. Proposal
 
-Para empezar, clona la plantilla y organiza su estructura siguiendo las indicaciones del [Léeme](../README.md). Este paso es clave para separar la documentación original de la plantilla y sentar una base limpia para tu proyecto.
+To get started, clone the template and organize its structure following the instructions in the [Readme](../README.md). This step is key to separating the original template documentation and laying a clean foundation for your project.
 
-Una vez configurado el entorno, utiliza los documentos de la plantilla como referencia para crear la documentación de tu propio proyecto.
+Once the environment is set up, use the template documents as a reference to create your own project documentation.
 
-Ahora que has preparado el entorno, es momento de conceptualizar la idea central de tu proyecto. En esta etapa, te enfocarás en definir claramente el problema a resolver, la solución que propones y el alcance de la implementación.
+Now that you have prepared the environment, it's time to conceptualize the core idea of your project. At this stage, you will focus on clearly defining the problem to solve, the solution you propose and the scope of implementation.
 
-- **[Propuesta](PROPOSAL.md)**: Crea este documento para definir el problema que resuelves, la solución propuesta y el alcance del proyecto. Es el punto de partida que valida si la idea tiene sentido y merece la pena desarrollarla.
-- **[Licencia](../LICENSE)**: Decide qué licencia usar para tu proyecto. La plantilla incluye MIT por defecto, pero puedes cambiarla según tus necesidades.
+- **[Proposal](PROPOSAL.md)**: Create this document to define the problem you solve, the proposed solution and the project scope. It is the starting point that validates whether the idea makes sense and is worth developing.
+- **[License](../LICENSE)**: Decide which license to use for your project. The template includes MIT by default, but you can change it according to your needs.
 
-Antes de continuar, es esencial que el equipo de desarrollo revise, participe activamente y apruebe la propuesta para asegurar su viabilidad técnica y alineación con los objetivos del proyecto.
+Before continuing, it is essential that the development team reviews, actively participates and approves the proposal to ensure its technical feasibility and alignment with project objectives.
 
-### 2. Planificación
+### 2. Planning
 
-Una vez validada la propuesta, organiza el proyecto y establece cómo se ejecutará y medirá el éxito.
+Once the proposal is validated, organize the project and establish how it will be executed and success measured.
 
-- **[Plan de Acción](ACTION_PLAN.md)**: Define las fases, hitos, recursos necesarios y cronograma del proyecto. Establece cómo medirás el éxito y qué criterios usarás para validar los resultados.
-- **[Tareas](tasks/)**: Desglosa el trabajo en tareas específicas y manejables. Cada tarea debe tener criterios de aceptación claros y estimaciones de tiempo.
-- **[Validación](VALIDATION.md)**: Define los criterios de aceptación y el proceso para verificar que los resultados cumplen con los objetivos establecidos en la propuesta.
+- **[Action Plan](ACTION_PLAN.md)**: Defines the phases, milestones, required resources and project schedule. Establishes how you will measure success and what criteria you will use to validate the results.
+- **[Tasks](tasks/)**: Break down the work into specific and manageable tasks. Each task should have clear acceptance criteria and time estimates.
+- **[Validation](VALIDATION.md)**: Define acceptance criteria and the process to verify that the results meet the objectives established in the proposal.
 
-Continúa con el resto de tareas de la plantilla. Si has seguido los pasos anteriores, las tareas de configuración inicial ya estarán completadas.
+Continue with the rest of the template tasks. If you have followed the previous steps, the initial setup tasks will already be completed.
 
-- **[Créditos](CREDITS.md)**: Reconoce las contribuciones, herramientas utilizadas y agradecimientos del proyecto.
-- **[README.md](../README.md)**: Crea el documento principal de tu proyecto que explique qué hace, cómo instalarlo y cómo usarlo. Este será el primer documento que vean los usuarios.
-- **[Código de Conducta](CODE_OF_CONDUCT.md)**: Establece las normas de comportamiento y convivencia para la comunidad del proyecto.
-- **[Guía de Seguridad](SECURITY.md)**: Define las políticas de seguridad, cómo reportar vulnerabilidades y procedimientos de respuesta.
-- **[Guía de Contribución](CONTRIBUTING.md)**: Define cómo otros desarrolladores pueden contribuir a tu proyecto, incluyendo estándares de código y proceso de revisión.
-- **[Guía de Usuario](USER_GUIDE.md)**: Documenta cómo los usuarios finales deben utilizar tu aplicación o producto, incluyendo ejemplos prácticos y casos de uso.
-- **[Estructura del Proyecto](STRUCTURE.md)**: Documenta la arquitectura y organización de archivos y carpetas de tu proyecto.
-- **[Guía de Desarrollo](DEVELOPMENT_GUIDE.md)**: Establece los estándares técnicos, convenciones de código y metodología de desarrollo para el equipo.
+- **[Credits](CREDITS.md)**: Acknowledge project contributions, tools used and acknowledgements.
+- **[README.md](../README.md)**: Create the main document of your project that explains what it does, how to install it and how to use it. This will be the first document users see.
+- **[Code of Conduct](CODE_OF_CONDUCT.md)**: Establish behavior and coexistence standards for the project community.
+- **[Security Guide](SECURITY.md)**: Define security policies, how to report vulnerabilities and response procedures.
+- **[Contribution Guide](CONTRIBUTING.md)**: Define how other developers can contribute to your project, including code standards and review process.
+- **[User Guide](USER_GUIDE.md)**: Document how end users should use your application or product, including practical examples and use cases.
+- **[Project Structure](STRUCTURE.md)**: Document the architecture and organization of files and folders of your project.
+- **[Development Guide](DEVELOPMENT_GUIDE.md)**: Establish technical standards, code conventions and development methodology for the team.
 
-Es fundamental que todo el equipo revise y valide colectivamente el plan de acción, incluyendo las tareas definidas, los criterios de éxito y la metodología de validación, así como toda la documentación creada. Esta revisión colaborativa asegura la viabilidad técnica, confirma la alineación con los objetivos del proyecto y garantiza el compromiso de todos los miembros antes de proceder a la siguiente fase.
+It is essential that the entire team reviews and collectively validates the action plan, including the defined tasks, success criteria and validation methodology, as well as all created documentation. This collaborative review ensures technical feasibility, confirms alignment with project objectives and guarantees commitment from all members before proceeding to the next phase.
 
-### 3. Desarrollo
+### 3. Development
 
-Ya puedes comenzar con las tareas personalizadas que has añadido al [Plan de Acción](ACTION_PLAN.md).
+You can now start with the custom tasks you have added to the [Action Plan](ACTION_PLAN.md).
 
-Recuerda que la documentación es un componente vivo del proyecto. Cada vez que se realicen cambios significativos en la documentación y el código, es una buena práctica revisar y actualizar todos los documentos relevantes, para asegurar que la información se mantenga precisa y útil para todo el equipo.
+Remember that documentation is a living component of the project. Each time significant changes are made to documentation and code, it is good practice to review and update all relevant documents, to ensure that information remains accurate and useful for the entire team.
 
-Mantén actualizado el [Léeme](../README.md), el [Plan de acción](ACTION_PLAN.md) y el registro de [Tareas](tasks/).
+Keep the [Readme](../README.md), [Action Plan](ACTION_PLAN.md) and [Tasks](tasks/) log updated.
 
-La [Validación](VALIDATION.md) se ejecuta al finalizar el proyecto o al liberar una versión estable (release), típicamente en la versión 1.0.0. Este documento ayuda a que todos los objetivos y criterios de aceptación definidos inicialmente se han cumplido satisfactoriamente.
+[Validation](VALIDATION.md) is executed when the project is completed or when releasing a stable version (release), typically in version 1.0.0. This document helps ensure that all objectives and acceptance criteria defined initially have been successfully met.
 
-Cuando ya no necesites los archivos de la plantilla, puedes eliminarlos de forma segura.
+When you no longer need the template files, you can safely delete them.
 
-## Preguntas Frecuentes
+## Frequently Asked Questions
 
-**¿Puedo usar esta plantilla para cualquier lenguaje de programación?**
-¡Sí! La plantilla es agnóstica al lenguaje. Simplemente empieza a añadir tu código en la carpeta `src/`.
+**Can I use this template for any programming language?**
+Yes! The template is language agnostic. Simply start adding your code to the `src/` folder.
 
-**¿Qué hago si determino que el proyecto no es viable?**
-Si concluyes que el proyecto no es viable, puedes detener su desarrollo en cualquier momento. Utiliza el documento de **[Propuesta](PROPOSAL.md)** para documentar el análisis y la decisión, manteniendo un registro claro para el equipo.
+**What do I do if I determine the project is not viable?**
+If you conclude that the project is not viable, you can stop its development at any time. Use the **[Proposal](PROPOSAL.md)** document to document the analysis and decision, keeping a clear record for the team.
 
-**¿En qué orden debo crear los documentos?**
-Sigue las 3 fases: primero la Propuesta, luego la Planificación y crea toda la documentación antes del Desarrollo.
+**In what order should I create the documents?**
+Follow the 3 phases: first the Proposal, then Planning and create all documentation before Development.
 
-**¿Puedo saltarme alguna de las 3 fases?**
-Recomendamos seguir todas las fases, pero puedes adaptar el proceso según el tamaño y complejidad de tu proyecto.
+**Can I skip any of the 3 phases?**
+We recommend following all phases, but you can adapt the process according to the size and complexity of your project.
 
-**¿Qué hago si no quiero toda la documentación?**
-Puedes eliminar o modificar los documentos que no necesites. Sin embargo, te recomendamos mantener al menos `README.md`, `LICENSE` y `CONTRIBUTING.md` para tener un proyecto bien documentado.
+**What if I don't want all the documentation?**
+You can delete or modify the documents you don't need. However, we recommend keeping at least `README.md`, `LICENSE` and `CONTRIBUTING.md` to have a well-documented project.
 
-**¿Qué documentos son obligatorios vs opcionales?**
-`README.md` y `LICENSE` son esenciales. El resto puedes adaptarlos según las necesidades de tu proyecto.
+**Which documents are mandatory vs optional?**
+`README.md` and `LICENSE` are essential. You can adapt the rest according to your project's needs.
 
-**¿Cómo reporto un problema o sugiero una mejora para la plantilla?**
-Tienes varias opciones para reportar problemas o sugerir mejoras:
+**How do I report a problem or suggest an improvement for the template?**
+You have several options to report problems or suggest improvements:
 
-- **Issues**: Abre un [issue](https://github.com/sergio-ridaura/project-kickstart/issues) para reportar bugs o solicitar funcionalidades
-- **Contribuciones**: Consulta la [Guía de Contribución](CONTRIBUTING.md) para el proceso completo de colaboración
-- **Vulnerabilidades**: Para temas de seguridad, revisa el [Documento de Seguridad](SECURITY.md)
+- **Issues**: Open an [issue](https://github.com/sergio-ridaura/project-kickstart/issues) to report bugs or request features
+- **Contributions**: Check the [Contribution Guide](CONTRIBUTING.md) for the complete collaboration process
+- **Vulnerabilities**: For security issues, review the [Security Document](SECURITY.md)
 
-¡Gracias por usar Project Kickstart! Esperamos que te ayude a construir proyectos increíbles.
+Thank you for using Project Kickstart! We hope it helps you build amazing projects.

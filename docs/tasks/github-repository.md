@@ -1,34 +1,34 @@
-# Tarea: Repositorio en GitHub
+# Task: GitHub Repository
 
-Crear y configurar el repositorio base en GitHub para el proyecto.
+Create and configure the base repository on GitHub for the project.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 1 hora         |
-| **Tiempo**      | 1 hora         |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 1 hour         |
+| **Time**        | 1 hour         |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Creación del Repositorio:** Crear repositorio `project-kickstart` con descripción "A lightweight and optimized template for starting projects of any type, with standard configurations for GitHub and Visual Studio Code." e inicialización con documento README.
-- [x] **Configuración como Plantilla:** Habilitar opción "Template repository" para permitir que otros usuarios creen repositorios basados en este.
-- [x] **Configuración del About del Repositorio:** Desactiva las secciones de Release y Packages en el apartado About. Mantén activada la opción Deployments en About.
-- [x] **Configuración General del Repositorio:** Desactiva las opciones Wiki y Projects en la configuración del repositorio. Mantén activada la opción "Preserve this repository".
-- [x] **Protección de la rama main:** Configurar reglas de protección para la rama `main`, incluyendo requerir revisiones de pull request antes de fusionar y restringir los pushes directos.
-- [x] **Creación de la rama develop:** Crear una rama `develop` a partir de `main` para el desarrollo de nuevas funcionalidades.
-- [x] **Topics del Repositorio:** Añadir topics: `github`, `template`, `vscode`.
+- [x] **Repository Creation:** Create `project-kickstart` repository with description "A lightweight and optimized template for starting projects of any type, with standard configurations for GitHub and Visual Studio Code." and initialize with README document.
+- [x] **Template Configuration:** Enable "Template repository" option to allow other users to create repositories based on this one.
+- [x] **Repository About Configuration:** Disable Release and Packages sections in the About section. Keep Deployments option active in About.
+- [x] **General Repository Configuration:** Disable Wiki and Projects options in repository settings. Keep "Preserve this repository" option active.
+- [x] **Main branch protection:** Configure protection rules for the `main` branch, including requiring pull request reviews before merging and restricting direct pushes.
+- [x] **Develop branch creation:** Create a `develop` branch from `main` for developing new features.
+- [x] **Repository Topics:** Add topics: `github`, `template`, `vscode`.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Cuenta GitHub activa.
+**Requires**: Active GitHub account.
 
-## Recursos
+## Resources
 
 - [GitHub Docs - Creating repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 - [GitHub Docs - Template repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

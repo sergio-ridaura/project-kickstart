@@ -1,31 +1,31 @@
-# Tarea: Configuración de GitHub
+# Task: GitHub Configuration
 
-Configurar archivos y estructura necesaria para el repositorio GitHub del proyecto, incluyendo archivos de configuración, templates y documentación específica de GitHub.
+Configure files and structure needed for the project's GitHub repository, including configuration files, templates and GitHub-specific documentation.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 2 horas        |
-| **Tiempo**      | 2 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 2 hours        |
+| **Time**        | 2 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Archivo .gitignore**: Crear archivo `.gitignore` con patrones para archivos de sistema.
-- [x] **Templates de Issues**: Configurar templates en `.github/ISSUE_TEMPLATE/` para diferentes tipos de issues.
-- [x] **Templates de Pull Request**: Crear template en `.github/PULL_REQUEST_TEMPLATE/` con checklist y estructura estándar para PRs.
-- [x] **Licencia**: Crear archivo de licencia personalizada para el proyecto.
+- [x] **.gitignore file**: Create `.gitignore` file with patterns for system files.
+- [x] **Issue Templates**: Configure templates in `.github/ISSUE_TEMPLATE/` for different types of issues.
+- [x] **Pull Request Templates**: Create template in `.github/PULL_REQUEST_TEMPLATE/` with checklist and standard structure for PRs.
+- [x] **License**: Create custom license file for the project.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Repositorio GitHub creado y configurado.
+**Requires**: GitHub repository created and configured.
 
-## Recursos
+## Resources
 
 - [GitHub Docs - Gitignore](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
 - [GitHub Docs - Issue Templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

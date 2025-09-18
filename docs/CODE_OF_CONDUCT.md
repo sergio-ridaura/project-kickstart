@@ -1,40 +1,40 @@
-# Código de Conducta
+# Code of Conduct
 
-Este Código de Conducta establece las pautas para el comportamiento esperado de todos los miembros de nuestra comunidad. Nuestro objetivo es crear un entorno inclusivo, respetuoso y colaborativo donde todos se sientan seguros y valorados.
+This Code of Conduct establishes guidelines for the expected behavior of all members of our community. Our goal is to create an inclusive, respectful and collaborative environment where everyone feels safe and valued.
 
-## Nuestro Compromiso
+## Our Commitment
 
-Como comunidad, estamos comprometidos a crear un espacio seguro y acogedor para todos, independientemente de:
+As a community, we are committed to creating a safe and welcoming space for everyone, regardless of:
 
-- Edad, tamaño corporal o apariencia física.
-- Discapacidades visibles o invisibles.
-- Etnicidad, raza o nacionalidad.
-- Identidad y expresión de género, orientación sexual o características sexuales.
-- Nivel de experiencia, educación o estatus socioeconómico.
-- Religión, creencias o afiliación política.
+- Age, body size or physical appearance.
+- Visible or invisible disabilities.
+- Ethnicity, race or nationality.
+- Gender identity and expression, sexual orientation or sexual characteristics.
+- Level of experience, education or socioeconomic status.
+- Religion, beliefs or political affiliation.
 
-Valoramos la diversidad y promovemos un trato respetuoso y equitativo en todas las interacciones.
+We value diversity and promote respectful and equitable treatment in all interactions.
 
-## Comportamientos Inaceptables
+## Unacceptable Behaviors
 
-No se tolerará ningún tipo de comportamiento inapropiado, incluyendo, pero no limitado a:
+Any inappropriate behavior will not be tolerated, including, but not limited to:
 
-- Comentarios ofensivos, discriminatorios o despectivos.
-- Acoso de cualquier tipo, ya sea verbal, físico o digital.
-- Intimidación, amenazas o ataques personales.
-- Compartir información privada sin consentimiento.
-- Cualquier otra conducta que pueda considerarse inapropiada en un entorno profesional.
+- Offensive, discriminatory or derogatory comments.
+- Harassment of any kind, whether verbal, physical or digital.
+- Intimidation, threats or personal attacks.
+- Sharing private information without consent.
+- Any other conduct that may be considered inappropriate in a professional environment.
 
-## Aplicación del Código
+## Code Enforcement
 
-Si experimentas o presencias un comportamiento que viole este Código de Conducta, por favor repórtalo de inmediato a los líderes de la comunidad enviando un correo electrónico a [sergio.ridaura@outlook.com](mailto:sergio.ridaura@outlook.com).
+If you experience or witness behavior that violates this Code of Conduct, please report it immediately to community leaders by sending an email to [sergio.ridaura@outlook.com](mailto:sergio.ridaura@outlook.com).
 
-Todas las quejas serán tratadas de manera confidencial, revisadas seriamente y resueltas de forma justa y rápida. Nos reservamos el derecho de tomar las acciones necesarias, incluida la expulsión de la comunidad, para garantizar un entorno seguro y respetuoso.
+All complaints will be treated confidentially, reviewed seriously and resolved fairly and promptly. We reserve the right to take necessary actions, including expulsion from the community, to ensure a safe and respectful environment.
 
-## Inspiración y Referencia
+## Inspiration and Reference
 
-Este Código de Conducta está basado en el [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), versión 2.0. Te animamos a revisar el documento completo para más detalles.
+This Code of Conduct is based on the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), version 2.0. We encourage you to review the full document for more details.
 
-## Agradecimientos
+## Acknowledgements
 
-Agradecemos a todos los miembros de nuestra comunidad por su compromiso con este Código de Conducta. Juntos, podemos construir un entorno positivo y colaborativo donde todos se sientan valorados y respetados.
+We thank all members of our community for their commitment to this Code of Conduct. Together, we can build a positive and collaborative environment where everyone feels valued and respected.

@@ -1,33 +1,33 @@
-# Tarea: Documento de Propuesta
+# Task: Proposal Document
 
-Redactar una Propuesta que exponga claramente la solución del proyecto, identificando los problemas principales, detallando las soluciones propuestas y definiendo el alcance del desarrollo inicial.
+Write a Proposal that clearly presents the project's solution, identifying the main problems, detailing the proposed solutions and defining the scope of initial development.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 6 horas        |
-| **Tiempo**      | 6 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 6 hours        |
+| **Time**        | 6 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Crear archivo PROPOSAL.md**: Crear documento `docs/PROPOSAL.md` con la propuesta completa del proyecto.
-- [x] **Diseñar como MVP**: La propuesta debe constituir un Producto Mínimo Viable con funcionalidad esencial mínima.
-- [x] **Definir problemas clave**: Identificar y documentar los problemas principales que resuelve el proyecto.
-- [x] **Proponer soluciones**: Definir soluciones específicas para cada problema identificado.
-- [x] **Establecer alcance**: Delimitar qué incluye y qué NO incluye el proyecto para mantener enfoque.
-- [x] **Conclusión y llamada a la acción**: Incluir conclusión del proyecto e invitación a contribuir.
-- [x] **Estructura clara**: Organizar contenido en secciones lógicas; Descripción, Problema, Solución y Conclusión.
+- [x] **Create PROPOSAL.md file**: Create `docs/PROPOSAL.md` document with the complete project proposal.
+- [x] **Design as MVP**: The proposal should constitute a Minimum Viable Product with minimal essential functionality.
+- [x] **Define key problems**: Identify and document the main problems that the project solves.
+- [x] **Propose solutions**: Define specific solutions for each identified problem.
+- [x] **Establish scope**: Delimit what the project includes and does NOT include to maintain focus.
+- [x] **Conclusion and call to action**: Include project conclusion and invitation to contribute.
+- [x] **Clear structure**: Organize content in logical sections; Description, Problem, Solution and Conclusion.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Configuración inicial del proyecto.
+**Requires**: Initial project setup.
 
-## Recursos
+## Resources
 
 - [Minimum Viable Product - Wikipedia](https://en.wikipedia.org/wiki/Minimum_viable_product)
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._
