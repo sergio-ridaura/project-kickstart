@@ -1,31 +1,31 @@
-# Tarea: Documento de Seguridad
+# Task: Security Document
 
-Crear documento de políticas de seguridad que establezca procedimientos para reportar vulnerabilidades y mantener la seguridad del proyecto.
+Create a security policy document that establishes procedures for reporting vulnerabilities and maintaining project security.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Media          |
-| **Previsión**   | 1 hora         |
-| **Tiempo**      | 1 hora         |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | Medium         |
+| **Estimate**    | 1 hour         |
+| **Time**        | 1 hour         |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación**: El archivo `SECURITY.md` debe estar en la raíz del repositorio.
-- [x] **Política de seguridad clara**: Incluir políticas y recomendaciones para mantener la seguridad del proyecto.
-- [x] **Procedimiento de reporte**: Definir de forma detallada los canales y pasos para reportar vulnerabilidades o incidentes de seguridad.
-- [x] **Estándares y buenas prácticas**: Establecer convenciones de formato, estilo, documentación y prácticas seguras de desarrollo.
-- [x] **Enlaces útiles**: Incluir referencias a recursos oficiales o documentación relevante.
+- [x] **Location**: The `SECURITY.md` file must be in the root of the repository.
+- [x] **Clear security policy**: Include policies and recommendations to maintain project security.
+- [x] **Reporting procedure**: Define in detail the channels and steps to report vulnerabilities or security incidents.
+- [x] **Standards and best practices**: Establish formatting, style, documentation conventions and secure development practices.
+- [x] **Useful links**: Include references to official resources or relevant documentation.
 
-## Dependencias
+## Dependencies
 
-_No existen dependencias asociadas a esta tarea._
+_There are no dependencies associated with this task._
 
-## Recursos
+## Resources
 
-- [GitHub Security Advisories](https://docs.github.com/en/code-security/security-advisories) - Guía oficial de GitHub
+- [GitHub Security Advisories](https://docs.github.com/en/code-security/security-advisories) - Official GitHub guide
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

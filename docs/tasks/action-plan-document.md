@@ -1,32 +1,32 @@
-# Tarea: Documento Plan de Acción
+# Task: Action Plan Document
 
-Redactar el Plan de acción que defina la implementación detallada de la Propuesta, incluyendo objetivos, criterios de éxito, recursos y fases de desarrollo.
+Write the Action Plan that defines the detailed implementation of the Proposal, including objectives, success criteria, resources and development phases.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 2 horas        |
-| **Tiempo**      | 2 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 2 hours        |
+| **Time**        | 2 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Crear archivo ACTION_PLAN.md**: Crear documento `docs/ACTION_PLAN.md` con el plan de implementación completo del "Plan de acción".
-- [x] **Definir criterios de éxito**: Establecer criterios medibles con métodos de validación específicos.
-- [x] **Especificar recursos**: Definir equipo necesario y herramientas requeridas.
-- [x] **Estructurar fases**: Organizar implementación en fases lógicas.
-- [x] **Lista de tareas**: Incluir todas las tareas necesarias con estado de progreso y enlaces cuando corresponda.
-- [x] **Verificación final**: Definir criterios para lanzamiento y validación del template.
+- [x] **Create ACTION_PLAN.md file**: Create `docs/ACTION_PLAN.md` document with the complete implementation plan of the "Action Plan".
+- [x] **Define success criteria**: Establish measurable criteria with specific validation methods.
+- [x] **Specify resources**: Define required team and tools.
+- [x] **Structure phases**: Organize implementation in logical phases.
+- [x] **Task list**: Include all necessary tasks with progress status and links where appropriate.
+- [x] **Final verification**: Define criteria for release and template validation.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Documento de [Propuesta](../PROPOSAL.md) definido y actualizado.
+**Requires**: Defined and updated [Proposal](../PROPOSAL.md) document.
 
-## Recursos
+## Resources
 
 - [Action Plan - Wikipedia](https://en.wikipedia.org/wiki/Action_plan)
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

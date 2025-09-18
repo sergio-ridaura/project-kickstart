@@ -1,77 +1,77 @@
-# Plan de Acción
+# Action Plan
 
-Este documento define el plan de implementación de la Propuesta, incluyendo objetivos, métricas, alcance, recursos y estrategias de validación.
+This document defines the implementation plan of the Proposal, including objectives, metrics, scope, resources and validation strategies.
 
-## Objetivo del Plan
+## Plan Objective
 
-Proveer una plantilla lista para usar con configuraciones estándar que reduzca el tiempo de configuración inicial y mejore la consistencia en los entornos de desarrollo.
+To provide a ready-to-use template with standard configurations that reduce initial setup time and improve consistency in development environments.
 
-## Criterios de Éxito
+## Success Criteria
 
-- **Reducción del tiempo de configuración**: Los usuarios podrán iniciar proyectos en menos de 5 minutos.
-- **Tiempo de implementación**: Completar el plan de implementación en 8 días trabajando 6 horas diarias. Se validará mediante seguimiento del progreso de tareas y cumplimiento de hitos.
-- **Consistencia en configuraciones**: Las configuraciones serán compatibles en al menos el 90% de los entornos de desarrollo probados.
+- **Setup time reduction**: Users will be able to start projects in less than 5 minutes.
+- **Implementation time**: Complete the implementation plan in 8 days working 6 hours per day. It will be validated by tracking task progress and milestone compliance.
+- **Configuration consistency**: Configurations will be compatible in at least 90% of tested development environments.
 
-## Recursos Necesarios
+## Required Resources
 
-### Equipo
+### Team
 
-- **Sergio Ridaura**: Technical Writing y Content Creator (6 horas diarias)
-  - Configuración inicial del repositorio
-  - Documentación
+- **Sergio Ridaura**: Technical Writing and Content Creator (6 hours per day)
+  - Initial repository setup
+  - Documentation
 
-### Herramientas
+### Tools
 
-- **[GitHub](https://github.com)**: Control de versiones
-- **[Visual Studio Code](https://code.visualstudio.com)**: Editor de código
-- **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)**: Visualización y validación de formato
+- **[GitHub](https://github.com)**: Version control
+- **[Visual Studio Code](https://code.visualstudio.com)**: Code editor
+- **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)**: Format visualization and validation
 
-### Tecnologías
+### Technologies
 
-- **[Git](https://git-scm.com)**: Gestión de versiones
-- **[Markdown](https://www.markdownguide.org)**: Documentación
+- **[Git](https://git-scm.com)**: Version management
+- **[Markdown](https://www.markdownguide.org)**: Documentation
 
-## Plan de Implementación
+## Implementation Plan
 
-**Tareas:**
+**Tasks:**
 
-- 15/15 tareas completadas (100%)
-- 0 tareas pendientes (0%)
+- 15/15 tasks completed (100%)
+- 0 pending tasks (0%)
 
-**Tiempo:**
+**Time:**
 
-- 47 horas totales estimadas (7 días y 5 horas, días de 6 horas)
-- 47 horas completadas (7 días y 5 horas, días de 6 horas -> 100%)
-- 0 horas por finalizar (0 horas, días de 6 horas -> 0%)
+- 47 total estimated hours (7 days and 5 hours, 6-hour days)
+- 47 completed hours (7 days and 5 hours, 6-hour days -> 100%)
+- 0 hours remaining (0 hours, 6-hour days -> 0%)
 
-### Configuración Inicial
+### Initial Setup
 
-- [x] [Repositorio en GitHub](tasks/github-repository.md) - 1h
-- [x] [Configuración de GitHub](tasks/github-configuration.md) - 2h
-- [x] [Configuración de Visual Studio Code](tasks/vscode-configuration.md) - 2h
-- [x] [Documento de Propuesta](tasks/proposal-document.md) - 6h
-- [x] [Documento Plan de Acción](tasks/action-plan-document.md) - 2h
-- [x] [Documentos de Tareas del Plan de Acción](tasks/action-plan-tasks.md) - 16h
-- [x] [Documento de Validación](tasks/validation-document.md) - 2h
+- [x] [GitHub Repository](tasks/github-repository.md) - 1h
+- [x] [GitHub Configuration](tasks/github-configuration.md) - 2h
+- [x] [Visual Studio Code Configuration](tasks/vscode-configuration.md) - 2h
+- [x] [Proposal Document](tasks/proposal-document.md) - 6h
+- [x] [Action Plan Document](tasks/action-plan-document.md) - 2h
+- [x] [Action Plan Task Documents](tasks/action-plan-tasks.md) - 16h
+- [x] [Validation Document](tasks/validation-document.md) - 2h
 
-### Documentación del Proyecto
+### Project Documentation
 
-- [x] [Documento de Créditos](tasks/credits-document.md) - 1h
-- [x] [Documento README](tasks/readme-document.md) - 2h
-- [x] [Código de Conducta](tasks/code-of-conduct-document.md) - 1h
-- [x] [Documento de Seguridad](tasks/security-document.md) - 1h
-- [x] [Documento de Contribución](tasks/contributing-document.md) - 2h
+- [x] [Credits Document](tasks/credits-document.md) - 1h
+- [x] [README Document](tasks/readme-document.md) - 2h
+- [x] [Code of Conduct](tasks/code-of-conduct-document.md) - 1h
+- [x] [Security Document](tasks/security-document.md) - 1h
+- [x] [Contribution Document](tasks/contributing-document.md) - 2h
 
-### Documentación de Usuario
+### User Documentation
 
-- [x] [Guía de Usuario](tasks/user-guide-document.md) - 3h
-- [x] [Documento de Estructura](tasks/structure-document.md) - 2h
-- [x] [Guía de Desarrollo](tasks/development-guide-document.md) - 4h
+- [x] [User Guide](tasks/user-guide-document.md) - 3h
+- [x] [Structure Document](tasks/structure-document.md) - 2h
+- [x] [Development Guide](tasks/development-guide-document.md) - 4h
 
-### Mejoras
+### Improvements
 
-_No hay mejoras detectadas_
+_No improvements detected_
 
-### Errores
+### Errors
 
-_No hay errores detectados_
+_No errors detected_

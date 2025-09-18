@@ -1,30 +1,30 @@
-# Tarea: Documento de Créditos
+# Task: Credits Document
 
-Crear documento de créditos que reconozca contribuciones, herramientas utilizadas y recursos que han hecho posible el desarrollo del proyecto.
+Create a credits document that acknowledges contributions, tools used and resources that have made the development of the project possible.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Baja           |
-| **Previsión**   | 1 hora         |
-| **Tiempo**      | 1 hora         |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | Low            |
+| **Estimate**    | 1 hour         |
+| **Time**        | 1 hour         |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación**: El archivo `CREDITS.md` debe estar en la raíz del repositorio.
-- [x] **Reconocimientos claros**: Incluir reconocimientos explícitos a autores, colaboradores, herramientas y recursos clave utilizados en el proyecto.
-- [x] **Estructura organizada**: El documento debe estar dividido en secciones claras: Autores principales, Colaboradores, Herramientas/tecnologías, y Agradecimientos especiales.
-- [x] **Formato consistente**: Mantener un formato uniforme y profesional en todo el documento.
+- [x] **Location**: The `CREDITS.md` file must be in the root of the repository.
+- [x] **Clear acknowledgements**: Include explicit acknowledgements to authors, collaborators, tools and key resources used in the project.
+- [x] **Organized structure**: The document should be divided into clear sections: Main authors, Collaborators, Tools/technologies, and Special thanks.
+- [x] **Consistent format**: Maintain a uniform and professional format throughout the document.
 
-## Dependencias
+## Dependencies
 
-_No existen dependencias asociadas a esta tarea._
+_There are no dependencies associated with this task._
 
-## Recursos
+## Resources
 
-_No se requieren recursos externos para esta tarea._
+_No external resources required for this task._
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

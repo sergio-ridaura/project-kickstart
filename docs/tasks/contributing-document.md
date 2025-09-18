@@ -1,31 +1,31 @@
-# Tarea: Documento de Contribución
+# Task: Contribution Document
 
-Crear guía de contribución que establezca procedimientos, estándares y mejores prácticas para colaboradores del proyecto.
+Create a contribution guide that establishes procedures, standards and best practices for project contributors.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Media          |
-| **Previsión**   | 2 horas        |
-| **Tiempo**      | 2 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | Medium         |
+| **Estimate**    | 2 hours        |
+| **Time**        | 2 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación**: El archivo `CONTRIBUTING.md` debe estar en la raíz del repositorio.
-- [x] **Guía integral**: Incluir procedimientos claros para contribuir, desde la creación de issues hasta la realización de pull requests y revisiones.
-- [x] **Estándares de código**: Definir convenciones de formato, estilo, documentación y buenas prácticas de desarrollo.
-- [x] **Flujo de trabajo detallado**: Describir el proceso recomendado para la colaboración, incluyendo revisión de código y resolución de conflictos.
-- [x] **Enlaces y recursos útiles**: Proporcionar referencias a documentación oficial o recursos adicionales para nuevos colaboradores.
+- [x] **Location**: The `CONTRIBUTING.md` file must be in the root of the repository.
+- [x] **Comprehensive guide**: Include clear procedures for contributing, from creating issues to making pull requests and reviews.
+- [x] **Code standards**: Define formatting, style, documentation conventions and development best practices.
+- [x] **Detailed workflow**: Describe the recommended process for collaboration, including code review and conflict resolution.
+- [x] **Useful links and resources**: Provide references to official documentation or additional resources for new contributors.
 
-## Dependencias
+## Dependencies
 
-_No existen dependencias asociadas a esta tarea._
+_There are no dependencies associated with this task._
 
-## Recursos
+## Resources
 
-- [GitHub Contributing Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions) - Guía oficial
+- [GitHub Contributing Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions) - Official guide
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

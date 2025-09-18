@@ -1,4 +1,4 @@
-# Archivos y directorios que serán ignorados por Git
+# Files and directories that will be ignored by Git
 
 # macOS
 .DS_Store

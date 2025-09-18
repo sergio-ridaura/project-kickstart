@@ -1,42 +1,42 @@
-# Política de Seguridad
+# Security Policy
 
-Este documento describe las políticas y procedimientos para manejar vulnerabilidades de seguridad en este proyecto. Nuestro objetivo es garantizar la seguridad de nuestros usuarios y mantener un entorno de desarrollo seguro.
+This document describes the policies and procedures for handling security vulnerabilities in this project. Our goal is to ensure the security of our users and maintain a safe development environment.
 
-## Reportar una Vulnerabilidad
+## Reporting a Vulnerability
 
-Si identificas una vulnerabilidad de seguridad en este proyecto, sigue estos pasos:
+If you identify a security vulnerability in this project, follow these steps:
 
-- **⚠️ No abras un issue público en GitHub**. Esto asegura que la vulnerabilidad se maneje de manera confidencial y segura.
-- Envía un correo electrónico a [sergio.ridaura@outlook.com](mailto:sergio.ridaura@outlook.com) con la siguiente información:
-  - Descripción detallada de la vulnerabilidad.
-  - Pasos para reproducirla (si aplica).
-  - Impacto potencial de la vulnerabilidad.
-  - Cualquier otra información relevante que nos ayude a entender y resolver el problema.
+- **⚠️ Do not open a public issue on GitHub**. This ensures that the vulnerability is handled confidentially and securely.
+- Send an email to [sergio.ridaura@outlook.com](mailto:sergio.ridaura@outlook.com) with the following information:
+  - Detailed description of the vulnerability.
+  - Steps to reproduce it (if applicable).
+  - Potential impact of the vulnerability.
+  - Any other relevant information that helps us understand and resolve the problem.
 
-## Versiones Soportadas
+## Supported Versions
 
-Las versiones antiguas no reciben mantenimiento ni actualizaciones de seguridad. Se recomienda actualizar a la última versión para garantizar la protección contra vulnerabilidades conocidas.
+Old versions do not receive maintenance or security updates. It is recommended to update to the latest version to ensure protection against known vulnerabilities.
 
-**Nota**:
+**Note**:
 
-- No se conocen vulnerabilidades en la versión recomendada.
-- Las versiones obsoletas pueden presentar riesgos de seguridad y no reciben actualizaciones.
+- No vulnerabilities are known in the recommended version.
+- Obsolete versions may present security risks and do not receive updates.
 
-## Mejores Prácticas de Seguridad
+## Security Best Practices
 
-Para mantener la seguridad de tu proyecto, recomendamos:
+To maintain the security of your project, we recommend:
 
-- **Actualizar dependencias**: Mantén todas las dependencias del proyecto actualizadas a las últimas versiones estables.
-- **Revisión de código**: Realiza revisiones periódicas del código y de los archivos de configuración para identificar posibles vulnerabilidades.
-- **Pruebas de seguridad**: Implementa pruebas de seguridad automatizadas para detectar vulnerabilidades comunes.
-- **Monitoreo continuo**: Utiliza herramientas de monitoreo y análisis de seguridad para detectar y responder a amenazas en tiempo real.
-- **Educación continua**: Mantente informado sobre las últimas amenazas de seguridad y mejores prácticas a través de recursos confiables y comunidades de seguridad.
+- **Update dependencies**: Keep all project dependencies updated to the latest stable versions.
+- **Code review**: Perform periodic code and configuration file reviews to identify potential vulnerabilities.
+- **Security testing**: Implement automated security tests to detect common vulnerabilities.
+- **Continuous monitoring**: Use monitoring and security analysis tools to detect and respond to threats in real time.
+- **Continuous education**: Stay informed about the latest security threats and best practices through reliable resources and security communities.
 
-## Recursos Adicionales
+## Additional Resources
 
-- [GitHub Security Advisories](https://docs.github.com/en/code-security/security-advisories): Guía oficial de GitHub para gestionar avisos de seguridad.
-- [Securing your repository](https://docs.github.com/en/code-security/getting-started/securing-your-repository): Documentación de GitHub sobre cómo proteger tu repositorio.
+- [GitHub Security Advisories](https://docs.github.com/en/code-security/security-advisories): Official GitHub guide for managing security advisories.
+- [Securing your repository](https://docs.github.com/en/code-security/getting-started/securing-your-repository): GitHub documentation on how to secure your repository.
 
-## Agradecimientos
+## Acknowledgements
 
-Agradecemos profundamente el compromiso de la comunidad para ayudarnos a mantener este proyecto seguro. Tu colaboración es esencial para proteger a todos los usuarios y contribuir a un entorno de desarrollo seguro y confiable.
+We deeply appreciate the community's commitment to help us keep this project secure. Your collaboration is essential to protect all users and contribute to a safe and reliable development environment.

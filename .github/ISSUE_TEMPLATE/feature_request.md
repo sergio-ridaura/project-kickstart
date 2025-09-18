@@ -1,23 +1,23 @@
 ---
-name: Solicitud de Funcionalidad
-about: Sugerir una idea para este proyecto
-title: "[FUNCIONALIDAD] "
+name: Feature Request
+about: Suggest an idea for this project
+title: "[FEATURE] "
 labels: "enhancement"
 assignees: ""
 ---
 
-## ¿Tu solicitud está relacionada con un problema?
+## Is your request related to a problem?
 
-Una descripción clara del problema. Ej. Me siento frustrado cuando [...]
+A clear description of the problem. E.g. I'm frustrated when [...]
 
-## Describe la solución que te gustaría
+## Describe the solution you'd like
 
-Una descripción clara de lo que quieres que suceda.
+A clear description of what you want to happen.
 
-## Describe las alternativas que has considerado
+## Describe alternatives you've considered
 
-Una descripción clara de cualquier solución alternativa que hayas considerado.
+A clear description of any alternative solutions you've considered.
 
-## Información adicional
+## Additional information
 
-Agrega cualquier otro contexto o capturas de pantalla sobre la solicitud aquí.
+Add any other context or screenshots about the request here.

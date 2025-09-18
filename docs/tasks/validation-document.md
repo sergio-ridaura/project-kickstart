@@ -1,31 +1,31 @@
-# Tarea: Documento de Validación
+# Task: Validation Document
 
-Crear documento de validación que defina los criterios y resultados del proceso de validación del proyecto.
+Create a validation document that defines the criteria and results of the project validation process.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 2 horas        |
-| **Tiempo**      | 2 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 2 hours        |
+| **Time**        | 2 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación y formato**: El archivo `docs/VALIDATION.md` debe crearse en la carpeta de documentación principal, siguiendo un formato claro y estructurado.
-- [x] **Criterios de validación definidos**: Incluir una sección con criterios de validación específicos, medibles y alineados con los objetivos del proyecto.
-- [x] **Registro detallado de resultados**: Documentar de manera clara los resultados obtenidos durante el proceso de validación, incluyendo evidencias (por ejemplo, capturas de pantalla, logs o tablas de resultados).
-- [x] **Acciones y recomendaciones**: Especificar los pasos a seguir según los resultados de la validación, incluyendo acciones correctivas o recomendaciones para futuras mejoras.
-- [x] **Referencias y trazabilidad**: Incluir referencias a los documentos de propuesta y plan de acción, asegurando la trazabilidad de los criterios y resultados.
+- [x] **Location and format**: The `docs/VALIDATION.md` file must be created in the main documentation folder, following a clear and structured format.
+- [x] **Defined validation criteria**: Include a section with specific, measurable validation criteria aligned with project objectives.
+- [x] **Detailed results record**: Clearly document the results obtained during the validation process, including evidence (for example, screenshots, logs or results tables).
+- [x] **Actions and recommendations**: Specify the steps to follow according to validation results, including corrective actions or recommendations for future improvements.
+- [x] **References and traceability**: Include references to the proposal and action plan documents, ensuring traceability of criteria and results.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Documento de Propuesta y Plan de acción redactados.
+**Requires**: Proposal and Action Plan documents drafted.
 
-## Recursos
+## Resources
 
-_No se requieren recursos externos para esta tarea._
+_No external resources required for this task._
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

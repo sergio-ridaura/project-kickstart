@@ -1,28 +1,28 @@
-# Descripción
+# Description
 
-Proporciona un resumen claro y conciso de los cambios realizados en este Pull Request, así como el problema o necesidad que aborda. Agrega el contexto necesario para que los revisores puedan entender el propósito y alcance de la propuesta.
+Provide a clear and concise summary of the changes made in this Pull Request, as well as the problem or need it addresses. Add the necessary context so reviewers can understand the purpose and scope of the proposal.
 
-# Tipo de cambio
+# Type of change
 
-Marca con una "X" la opción que aplique:
+Mark with an "X" the option that applies:
 
-- [ ] feat: – nueva funcionalidad
-- [ ] fix: – corrección de error
-- [ ] docs: – cambios en documentación
-- [ ] style: – formato, espaciado, etc.
-- [ ] refactor: – reestructuración sin cambiar comportamiento
-- [ ] test: – agregar o modificar pruebas
-- [ ] chore: – tareas de mantenimiento
+- [ ] feat: – new functionality
+- [ ] fix: – bug fix
+- [ ] docs: – documentation changes
+- [ ] style: – formatting, spacing, etc.
+- [ ] refactor: – restructuring without changing behavior
+- [ ] test: – add or modify tests
+- [ ] chore: – maintenance tasks
 
-# Lista de verificación
+# Checklist
 
-Antes de enviar el Pull Request, asegúrate de haber completado lo siguiente:
+Before submitting the Pull Request, make sure you have completed the following:
 
-- [ ] He seguido las guías y mejores prácticas definidas en el repositorio
-- [ ] He actualizado la documentación (README.md y otros documentos) si es necesario
-- [ ] He agregado pruebas para cubrir los cambios realizados
-- [ ] He ejecutado las pruebas y pasan exitosamente
+- [ ] I have followed the guidelines and best practices defined in the repository
+- [ ] I have updated the documentation (README.md and other documents) if necessary
+- [ ] I have added tests to cover the changes made
+- [ ] I have run the tests and they pass successfully
 
-# Información adicional
+# Additional information
 
-Incluye cualquier información relevante que pueda ayudar a los revisores a entender mejor el contexto, decisiones tomadas, o cualquier aspecto importante relacionado con los cambios propuestos.
+Include any relevant information that may help reviewers better understand the context, decisions made, or any important aspect related to the proposed changes.

@@ -1,33 +1,33 @@
-# Tarea: Documento README
+# Task: README Document
 
-Redactar el archivo principal `README.md` en la raíz del repositorio, proporcionando información esencial y clara para usuarios y colaboradores.
+Write the main `README.md` file in the root of the repository, providing essential and clear information for users and contributors.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 2 horas        |
-| **Tiempo**      | 2 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 2 hours        |
+| **Time**        | 2 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación**: El archivo `README.md` debe estar en la raíz del repositorio.
-- [x] **Descripción general**: Incluir una introducción clara sobre el propósito y beneficios del proyecto.
-- [x] **Instrucciones de uso**: Explicar los pasos básicos para comenzar a utilizar la plantilla.
-- [x] **Ejemplos de uso**: Añadir ejemplos sencillos que ilustren cómo emplear la plantilla.
-- [x] **Enlaces de navegación**: Proporcionar enlaces a documentación detallada y guías adicionales.
-- [x] **Información del proyecto**: Incluir detalles sobre la licencia, cómo contribuir y datos de contacto.
-- [x] **Soporte y comunicación**: Indicar cómo obtener ayuda o dónde plantear dudas, enlazar a los issues de GitHub.
+- [x] **Location**: The `README.md` file must be in the root of the repository.
+- [x] **Overview**: Include a clear introduction about the purpose and benefits of the project.
+- [x] **Usage instructions**: Explain the basic steps to start using the template.
+- [x] **Usage examples**: Add simple examples that illustrate how to use the template.
+- [x] **Navigation links**: Provide links to detailed documentation and additional guides.
+- [x] **Project information**: Include details about the license, how to contribute and contact information.
+- [x] **Support and communication**: Indicate how to get help or where to ask questions, link to GitHub issues.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Configuración Inicial completada y documento de créditos.
+**Requires**: Initial Setup completed and credits document.
 
-## Recursos
+## Resources
 
-_No se requieren recursos externos para esta tarea._
+_No external resources required for this task._
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._

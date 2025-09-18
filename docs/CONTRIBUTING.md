@@ -1,99 +1,99 @@
-# Contribuciones
+# Contributions
 
-¡Gracias por considerar contribuir a nuestro proyecto! Aquí encontrarás toda la información necesaria para comenzar a colaborar de manera efectiva.
+Thank you for considering contributing to our project! Here you will find all the necessary information to start collaborating effectively.
 
-## Requisitos Previos
+## Prerequisites
 
-Antes de realizar tu primera contribución, asegúrate de cumplir con los siguientes requisitos:
+Before making your first contribution, make sure you meet the following requirements:
 
-**Herramientas necesarias:**
+**Required tools:**
 
-- [Git](https://git-scm.com/) y cuenta en [GitHub](https://github.com)
-- Editor de código (recomendamos [Visual Studio Code](https://code.visualstudio.com))
+- [Git](https://git-scm.com/) and [GitHub](https://github.com) account
+- Code editor (we recommend [Visual Studio Code](https://code.visualstudio.com))
 
-**Documentación esencial:**
+**Essential documentation:**
 
-- [Léeme](../README.md), [Guía de Usuario](USER_GUIDE.md) y [Guía de Desarrollo](DEVELOPMENT_GUIDE.md)
-- [Código de Conducta](CODE_OF_CONDUCT.md) y [Seguridad](SECURITY.md)
+- [Readme](../README.md), [User Guide](USER_GUIDE.md) and [Development Guide](DEVELOPMENT_GUIDE.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md) and [Security](SECURITY.md)
 
-**Conocimientos básicos:**
+**Basic knowledge:**
 
-- Git, Markdown y objetivos del proyecto ([Propuesta](PROPOSAL.md))
+- Git, Markdown and project objectives ([Proposal](PROPOSAL.md))
 
-## ¿Cómo Puedes Contribuir?
+## How Can You Contribute?
 
-Puedes colaborar en las siguientes áreas:
+You can collaborate in the following areas:
 
-- **Corrección de Errores**: Ayuda a mejorar la estabilidad del proyecto solucionando errores existentes. Puedes encontrar una lista de errores conocidos en la sección de [issues](https://github.com/sergio-ridaura/project-kickstart/issues) etiquetados como `bug`.
-- **Nuevas Funcionalidades**: ¿Tienes una idea para una nueva funcionalidad? Revisa las [issues](https://github.com/sergio-ridaura/project-kickstart/issues) etiquetadas como `enhancement` para ver si tu idea ya está en discusión. Si no, ¡no dudes en abrir una nueva issue para proponerla!
-- **Mejoras en la Documentación**: Una buena documentación es clave para cualquier proyecto. Si encuentras áreas que se puedan mejorar o ampliar en el [Léeme](../README.md) o en otros documentos de la carpeta `docs`, tus contribuciones son bienvenidas.
-- **Revisión de Código**: Colabora revisando los [Pull Requests](https.github.com/sergio-ridaura/project-kickstart/pulls) abiertos. Ofrecer una segunda opinión y sugerir mejoras es una excelente manera de asegurar la calidad del código.
+- **Bug Fixes**: Help improve project stability by fixing existing bugs. You can find a list of known bugs in the [issues](https://github.com/sergio-ridaura/project-kickstart/issues) section tagged as `bug`.
+- **New Features**: Do you have an idea for a new feature? Review the [issues](https://github.com/sergio-ridaura/project-kickstart/issues) tagged as `enhancement` to see if your idea is already under discussion. If not, feel free to open a new issue to propose it!
+- **Documentation Improvements**: Good documentation is key to any project. If you find areas that can be improved or expanded in the [Readme](../README.md) or other documents in the `docs` folder, your contributions are welcome.
+- **Code Review**: Collaborate by reviewing open [Pull Requests](https://github.com/sergio-ridaura/project-kickstart/pulls). Offering a second opinion and suggesting improvements is an excellent way to ensure code quality.
 
-## Flujo de Trabajo
+## Workflow
 
-La [Guía de Desarrollo](DEVELOPMENT_GUIDE.md) describe la metodología general del proyecto. A continuación se detalla el flujo específico para colaboradores:
+The [Development Guide](DEVELOPMENT_GUIDE.md) describes the project's general methodology. The specific flow for contributors is detailed below:
 
-1. **Haz un fork del repositorio**.
-2. Antes de comenzar, **abre un [issue](https://github.com/sergio-ridaura/project-kickstart/issues)** para describir tu propuesta. Esto permite al equipo discutir la contribución y asegurar que se alinea con los objetivos del proyecto antes de que inviertas tiempo en el desarrollo.
-3. **Crea una rama para tu contribución**, a partir de la rama `staging`, siguiendo la convención de ramas:
+1. **Fork the repository**.
+2. Before you start, **open an [issue](https://github.com/sergio-ridaura/project-kickstart/issues)** to describe your proposal. This allows the team to discuss the contribution and ensure it aligns with the project's goals before you invest time in development.
+3. **Create a branch for your contribution**, from the `staging` branch, following the branch convention:
 
    ```bash
-   # Cambiar a la rama staging
+   # Switch to the staging branch
    git checkout staging
 
-   # Crear nueva rama desde staging
+   # Create new branch from staging
    git checkout -b type/task-name
    ```
 
-4. **Esta nueva tarea, que no está en el plan**, añádela al [Plan de Acción](ACTION_PLAN.md) y adapta las métricas correspondientes (número de tareas, horas estimadas, etc.).
-5. **Realiza los cambios necesarios**.
-6. **Antes de confirmar los cambios**, asegúrate de que tu código sigue los estándares del proyecto, actualiza al estado adecuado el documento de la tarea realizada y el plan de acción (marcar como completada, actualizar horas, criterios de aceptación y métricas del plan).
-7. **Confirma tus cambios** siguiendo la convención de mensajes:
+4. **This new task, which is not in the plan**, add it to the [Action Plan](ACTION_PLAN.md) and adapt the corresponding metrics (number of tasks, estimated hours, etc.).
+5. **Make the necessary changes**.
+6. **Before committing the changes**, make sure your code follows the project standards, update the status of the completed task document and action plan (mark as completed, update hours, acceptance criteria and plan metrics).
+7. **Commit your changes** following the message convention:
    ```bash
-   # Confirmar cambios con nombre de la tarea
+   # Commit changes with task name
    git commit -m "type:task-name"
    ```
-8. **Sube los cambios a tu fork**:
+8. **Push the changes to your fork**:
    ```bash
-   # Subir rama al fork en GitHub
+   # Push branch to GitHub fork
    git push origin type/task-name
    ```
-9. **Abre un Pull Request** desde tu rama hacia la rama `staging` del repositorio principal.
+9. **Open a Pull Request** from your branch to the `staging` branch of the main repository.
 
-### Flujo de Ramas
+### Branch Flow
 
-Para garantizar la estabilidad del código y facilitar el trabajo en paralelo, seguimos un modelo de flujo de ramas Git Flow adaptado:
+To ensure code stability and facilitate parallel work, we follow an adapted Git Flow branch flow model:
 
 ```
-main (producción estable)
-└── staging (preparación para producción)
+main (stable production)
+└── staging (preparation for production)
     ├── feat/authentication-system
     ├── fix/form-validation-error
     └── docs/installation-guide
 ```
 
-- **`main`**: Contiene la versión de producción del proyecto. Siempre debe estar estable y lista para ser desplegada.
-- **`staging`**: Es la rama de preparación para producción. Integra todas las funcionalidades y correcciones de manera continua.
-- **`type/task-name`**: Son las ramas de desarrollo, creadas a partir de `staging`. Cada nueva funcionalidad, corrección o cambio se desarrolla en su propia rama para aislar el trabajo.
+- **`main`**: Contains the production version of the project. It should always be stable and ready to be deployed.
+- **`staging`**: It is the pre-production branch. It continuously integrates all functionalities and fixes.
+- **`type/task-name`**: These are development branches, created from `staging`. Each new feature, fix or change is developed in its own branch to isolate the work.
 
-### Nombres de Ramas
+### Branch Names
 
-Utiliza el formato `type/task-name`, donde `type` puede ser:
+Use the format `type/task-name`, where `type` can be:
 
-- `feat`: Nueva funcionalidad.
-- `fix`: Corrección de un error.
-- `docs`: Cambios en la documentación.
-- `style`: Ajustes de formato (espacios, comas, etc.).
-- `refactor`: Refactorización de código existente.
-- `test`: Añadir o modificar tests.
-- `config`: Cambios en archivos de configuración.
-- `chore`: Tareas de mantenimiento.
+- `feat`: New functionality.
+- `fix`: Bug fix.
+- `docs`: Documentation changes.
+- `style`: Formatting adjustments (spaces, commas, etc.).
+- `refactor`: Refactoring of existing code.
+- `test`: Add or modify tests.
+- `config`: Configuration file changes.
+- `chore`: Maintenance tasks.
 
-### Mensajes de Commit
+### Commit Messages
 
-Los mensajes de commit deben seguir el formato `type: task-name`, utilizando los mismos tipos que las ramas. Esto facilita la lectura del historial y la automatización de tareas.
+Commit messages should follow the format `type: task-name`, using the same types as branches. This facilitates reading the history and automating tasks.
 
-**Ejemplos**:
+**Examples**:
 
 ```bash
 feat: authentication-system
@@ -101,26 +101,26 @@ fix: form-validation-error
 docs: installation-guide
 ```
 
-## Calidad del Código
+## Code Quality
 
-Para mantener la consistencia y la legibilidad del código, es fundamental seguir las siguientes pautas:
+To maintain code consistency and readability, it is essential to follow these guidelines:
 
-- **Estilo de Código**: Este proyecto utiliza [Prettier](https://prettier.io/) para formatear el código Markdown. Se recomienda usar la extensión [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) para Visual Studio Code para formatear automáticamente los archivos.
-- **Consistencia**: Al editar la documentación, por favor, sigue el estilo y la estructura de los archivos existentes. Esto incluye la forma en que se usan los encabezados, las listas y otros elementos de Markdown.
+- **Code Style**: This project uses [Prettier](https://prettier.io/) to format Markdown code. We recommend using the [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.pretter-vscode) extension for Visual Studio Code to automatically format files.
+- **Consistency**: When editing documentation, please follow the style and structure of existing files. This includes how headers, lists and other Markdown elements are used.
 
-## Revisiones y Aprobaciones
+## Reviews and Approvals
 
-- El desarrollador debe verificar localmente que los criterios de aceptación se cumplen y que no se ha roto ninguna funcionalidad existente.
-- Los mantenedores revisarán tu Pull Request lo antes posible.
-- Si se necesitan ajustes, se te notificará a través de comentarios en el Pull Request.
+- The developer must verify locally that the acceptance criteria are met and that no existing functionality has been broken.
+- Maintainers will review your Pull Request as soon as possible.
+- If adjustments are needed, you will be notified through comments on the Pull Request.
 
-## Recursos Adicionales
+## Additional Resources
 
 - [Conventional Commits](https://www.conventionalcommits.org/)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Flow](https://guides.github.com/introduction/flow/)
-- [About pull requests](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+- [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
-## Agradecimientos
+## Acknowledgements
 
-¡Gracias por tu interés en contribuir a este proyecto! Tu participación es valiosa y ayuda a mejorar la calidad y funcionalidad del mismo. Si tienes alguna pregunta o necesitas ayuda, no dudes en contactar a los mantenedores del proyecto.
+Thank you for your interest in contributing to this project! Your participation is valuable and helps improve the quality and functionality of the project. If you have any questions or need help, feel free to contact the project maintainers.

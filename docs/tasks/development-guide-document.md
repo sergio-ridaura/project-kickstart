@@ -1,32 +1,32 @@
-# Tarea: Guía de Desarrollo
+# Task: Development Guide
 
-Crear guía completa de desarrollo que detalle la metodología de trabajo y las fases de implementación de proyectos usando el sistema de plantillas.
+Create a complete development guide that details the work methodology and implementation phases of projects using the template system.
 
-| Campo           | Valor          |
+| Field           | Value          |
 | --------------- | -------------- |
-| **Estado**      | Completada     |
-| **Responsable** | Sergio Ridaura |
-| **Prioridad**   | Alta           |
-| **Previsión**   | 4 horas        |
-| **Tiempo**      | 4 horas        |
+| **Status**      | Completed      |
+| **Responsible** | Sergio Ridaura |
+| **Priority**    | High           |
+| **Estimate**    | 4 hours        |
+| **Time**        | 4 hours        |
 
-## Criterios de aceptación
+## Acceptance criteria
 
-- [x] **Ubicación**: El archivo `DEVELOPMENT_GUIDE.md` debe estar en la raíz del repositorio o en la carpeta principal de documentación.
-- [x] **Metodología completa y estructurada**: Describir detalladamente la metodología de trabajo, incluyendo todas las fases del desarrollo.
-- [x] **Estándares y mejores prácticas**: Establecer estándares de calidad, buenas prácticas de codificación, colaboración y revisión de código.
-- [x] **Herramientas recomendadas**: Especificar las herramientas, tecnologías y recursos sugeridos para el desarrollo eficiente del proyecto.
-- [x] **Métricas y criterios de éxito**: Definir indicadores claros y medibles para evaluar el avance y la calidad del desarrollo.
-- [x] **Formato claro y navegable**: Utilizar tablas, listas o secciones bien definidas para facilitar la consulta y comprensión.
+- [x] **Location**: The `DEVELOPMENT_GUIDE.md` file must be in the root of the repository or in the main documentation folder.
+- [x] **Complete and structured methodology**: Describe the work methodology in detail, including all development phases.
+- [x] **Standards and best practices**: Establish quality standards, good coding, collaboration and code review practices.
+- [x] **Recommended tools**: Specify suggested tools, technologies and resources for efficient project development.
+- [x] **Metrics and success criteria**: Define clear and measurable indicators to evaluate development progress and quality.
+- [x] **Clear and navigable format**: Use tables, lists or well-defined sections to facilitate consultation and understanding.
 
-## Dependencias
+## Dependencies
 
-**Requiere**: Guía del Usuario redactada.
+**Requires**: User Guide drafted.
 
-## Recursos
+## Resources
 
-_No se requieren recursos externos para esta tarea._
+_No external resources required for this task._
 
-### Comentarios
+### Comments
 
-_Actualmente no hay comentarios sobre esta tarea._
+_There are currently no comments on this task._
