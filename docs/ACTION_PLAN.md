@@ -35,14 +35,14 @@ Proveer una plantilla lista para usar con configuraciones estándar que reduzca 
 
 **Tareas:**
 
-- 14/15 tareas completadas (93%)
-- 1 tarea pendiente (7%)
+- 15/15 tareas completadas (100%)
+- 0 tareas pendientes (0%)
 
 **Tiempo:**
 
 - 47 horas totales estimadas (7 días y 5 horas, días de 6 horas)
-- 43 horas completadas (7 días y 1 hora, días de 6 horas -> 91%)
-- 4 horas por finalizar (4 horas, días de 6 horas -> 9%)
+- 47 horas completadas (7 días y 5 horas, días de 6 horas -> 100%)
+- 0 horas por finalizar (0 horas, días de 6 horas -> 0%)
 
 ### Configuración Inicial
 
@@ -52,21 +52,21 @@ Proveer una plantilla lista para usar con configuraciones estándar que reduzca 
 - [x] [Documento de Propuesta](tasks/proposal-document.md) - 6h
 - [x] [Documento Plan de Acción](tasks/action-plan-document.md) - 2h
 - [x] [Documentos de Tareas del Plan de Acción](tasks/action-plan-tasks.md) - 16h
+- [x] [Documento de Validación](tasks/validation-document.md) - 2h
 
 ### Documentación del Proyecto
 
 - [x] [Documento de Créditos](tasks/credits-document.md) - 1h
 - [x] [Documento README](tasks/readme-document.md) - 2h
+- [x] [Código de Conducta](tasks/code-of-conduct-document.md) - 1h
 - [x] [Documento de Seguridad](tasks/security-document.md) - 1h
 - [x] [Documento de Contribución](tasks/contributing-document.md) - 2h
-- [x] [Código de Conducta](tasks/code-of-conduct-document.md) - 1h
-- [x] [Documento de Validación](tasks/validation-document.md) - 2h
 
 ### Documentación de Usuario
 
 - [x] [Guía de Usuario](tasks/user-guide-document.md) - 3h
 - [x] [Documento de Estructura](tasks/structure-document.md) - 2h
-- [ ] [Guía de Desarrollo](tasks/development-guide-document.md) - 4h
+- [x] [Guía de Desarrollo](tasks/development-guide-document.md) - 4h
 
 ### Mejoras
 
