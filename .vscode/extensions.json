@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "mhutchie.git-graph",
+    "foxundermoon.shell-format",
+    "shd101wyy.markdown-preview-enhanced",
+    "esbenp.prettier-vscode"
+  ],
+  "unwantedRecommendations": []
+}
