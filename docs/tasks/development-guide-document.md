@@ -4,20 +4,20 @@ Crear guía completa de desarrollo que detalle la metodología de trabajo y las 
 
 | Campo           | Valor          |
 | --------------- | -------------- |
-| **Estado**      | Pendiente      |
+| **Estado**      | Completada     |
 | **Responsable** | Sergio Ridaura |
 | **Prioridad**   | Alta           |
 | **Previsión**   | 4 horas        |
-| **Tiempo**      | 0 horas        |
+| **Tiempo**      | 4 horas        |
 
 ## Criterios de aceptación
 
-- [ ] **Ubicación**: El archivo `DEVELOPMENT_GUIDE.md` debe estar en la raíz del repositorio o en la carpeta principal de documentación.
-- [ ] **Metodología completa y estructurada**: Describir detalladamente la metodología de trabajo, incluyendo todas las fases del desarrollo.
-- [ ] **Estándares y mejores prácticas**: Establecer estándares de calidad, buenas prácticas de codificación, colaboración y revisión de código.
-- [ ] **Herramientas recomendadas**: Especificar las herramientas, tecnologías y recursos sugeridos para el desarrollo eficiente del proyecto.
-- [ ] **Métricas y criterios de éxito**: Definir indicadores claros y medibles para evaluar el avance y la calidad del desarrollo.
-- [ ] **Formato claro y navegable**: Utilizar tablas, listas o secciones bien definidas para facilitar la consulta y comprensión.
+- [x] **Ubicación**: El archivo `DEVELOPMENT_GUIDE.md` debe estar en la raíz del repositorio o en la carpeta principal de documentación.
+- [x] **Metodología completa y estructurada**: Describir detalladamente la metodología de trabajo, incluyendo todas las fases del desarrollo.
+- [x] **Estándares y mejores prácticas**: Establecer estándares de calidad, buenas prácticas de codificación, colaboración y revisión de código.
+- [x] **Herramientas recomendadas**: Especificar las herramientas, tecnologías y recursos sugeridos para el desarrollo eficiente del proyecto.
+- [x] **Métricas y criterios de éxito**: Definir indicadores claros y medibles para evaluar el avance y la calidad del desarrollo.
+- [x] **Formato claro y navegable**: Utilizar tablas, listas o secciones bien definidas para facilitar la consulta y comprensión.
 
 ## Dependencias
 

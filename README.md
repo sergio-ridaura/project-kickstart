@@ -1,6 +1,6 @@
 # Project Kickstart
 
-[![Version](https://img.shields.io/badge/version-0.13.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-0.14.0-blue.svg)]()
 
 ## Descripción General
 
@@ -24,10 +24,10 @@ Project Kickstart es una plantilla ligera y optimizada para iniciar proyectos de
 
    ```bash
    # Clonar la plantilla con el nombre de tu proyecto
-   git clone https://github.com/sergio-ridaura/project-kickstart.git mi-proyecto
+   git clone https://github.com/sergio-ridaura/project-kickstart.git my-project
 
    # Navegar al directorio del proyecto
-   cd mi-proyecto
+   cd my-project
 
    # Abrir en Visual Studio Code
    code .
@@ -59,11 +59,11 @@ Project Kickstart es una plantilla ligera y optimizada para iniciar proyectos de
 
 Comienza leyendo **[Guía de Usuario](docs/USER_GUIDE.md)** de la plantilla y sigue las indicaciones.
 
+- [Licencia](LICENSE) - Términos de uso y distribución
 - [Código de Conducta](docs/CODE_OF_CONDUCT.md) - Normas de la comunidad
+- [Seguridad](docs/SECURITY.md) - Políticas de seguridad
 - [Guía de Contribución](docs/CONTRIBUTING.md) - Cómo participar en el proyecto
 - [Créditos](docs/CREDITS.md) - Agradecimientos y reconocimientos
-- [Seguridad](docs/SECURITY.md) - Políticas de seguridad
-- [Licencia](LICENSE) - Términos de uso y distribución
 
 🐱 ¿Sugerencias o problemas? Abre un [issue](https://github.com/sergio-ridaura/project-kickstart/issues) o contáctame directamente.
 
@@ -74,9 +74,9 @@ Para una visión general del proyecto, consulta los siguientes documentos:
 - [Propuesta](docs/PROPOSAL.md) - Definición y alcance del proyecto
 - [Plan de Acción](docs/ACTION_PLAN.md) - Implementación del proyecto
 - [Tareas del Plan de Acción](docs/tasks) - Desglose detallado de tareas
-- [Validación del Proyecto](docs/VALIDATION.md) - Criterios de validación y resultados
 - [Guía de Desarrollo](docs/DEVELOPMENT_GUIDE.md) - Metodología completa de trabajo
 - [Estructura del Proyecto](docs/STRUCTURE.md) - Arquitectura y organización
+- [Validación del Proyecto](docs/VALIDATION.md) - Criterios de validación y resultados
 
 🤝 Este es un proyecto de código abierto y las contribuciones son bienvenidas. Para más información, consulta la [Guía de Contribución](docs/CONTRIBUTING.md).
 
