@@ -1,6 +1,6 @@
 # Project Kickstart
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)]()
 
 ## Overview
 
@@ -42,11 +42,11 @@ Project Kickstart is a lightweight and optimized template to start projects of a
 
    ```bash
    # Create folder to archive the template
-   mkdir -p project-kickstart
+   mkdir -p ../project-kickstart
 
-   # Move template documentation
-   mv docs project-kickstart/
-   mv README.md project-kickstart/
+   # Move the template documentation
+   mv docs ../project-kickstart/
+   mv README.md ../project-kickstart/
    ```
 
 4. **Customize the documentation** using the template documents as reference. Create your own Readme, basic documentation and project structure based on the examples in `project-kickstart`. Once you have your documentation ready, delete the template folder.
