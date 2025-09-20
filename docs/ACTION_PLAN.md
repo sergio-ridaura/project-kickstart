@@ -35,13 +35,13 @@ Proveer una plantilla lista para usar con configuraciones estándar que reduzca 
 
 **Tareas:**
 
-- 15/15 tareas completadas (100%)
+- 16/16 tareas completadas (100%)
 - 0 tareas pendientes (0%)
 
 **Tiempo:**
 
-- 47 horas totales estimadas (7 días y 5 horas, días de 6 horas)
-- 47 horas completadas (7 días y 5 horas, días de 6 horas -> 100%)
+- 48 horas totales estimadas (7 días y 6 horas, días de 6 horas)
+- 48 horas completadas (7 días y 6 horas, días de 6 horas -> 100%)
 - 0 horas por finalizar (0 horas, días de 6 horas -> 0%)
 
 ### Configuración Inicial
@@ -70,7 +70,7 @@ Proveer una plantilla lista para usar con configuraciones estándar que reduzca 
 
 ### Mejoras
 
-_No hay mejoras detectadas_
+- [x] [Documento de Inicialización de Proyectos](tasks/project-initialization-document.md) - 1h
 
 ### Errores
 

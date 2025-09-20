@@ -1,6 +1,6 @@
 # Project Kickstart
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)]()
 
 ## Descripción General
 
@@ -42,11 +42,11 @@ Project Kickstart es una plantilla ligera y optimizada para iniciar proyectos de
 
    ```bash
    # Crear carpeta para archivar la plantilla
-   mkdir -p project-kickstart
+   mkdir -p ../project-kickstart
 
    # Mover la documentación de la plantilla
-   mv docs project-kickstart/
-   mv README.md project-kickstart/
+   mv docs ../project-kickstart/
+   mv README.md ../project-kickstart/
    ```
 
 4. **Personaliza la documentación** usando como referencia los documentos de la plantilla. Crea tu propio Léeme, documentación básica y estructura de proyecto basándote en los ejemplos de `project-kickstart`. Una vez que tengas tu documentación lista, elimina la carpeta de la plantilla.
